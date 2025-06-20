@@ -1,3 +1,33 @@
 .env
 /venv/
 /myenv/
+__pycache__
+pycache
+
+# Python cache files
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+.pytest_cache/
+# Python bytecode files
+**/*.pyc
+**/*$py.class
+
+
+# IDE caches
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Build caches
+dist/
+build/
+*.egg-info/
+modules/__pycache__/data_processing.cpython-311.pyc
+/modules/__pycache__
+modules/__pycache__/data_loader.cpython-311.pyc
+# Chat history files
+chat_history/
+
