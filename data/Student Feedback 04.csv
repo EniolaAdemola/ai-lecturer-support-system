@@ -1,0 +1,1001 @@
+Faculty,Department ,Lecturers Name,Year,Section,Teaching Method Rating ,Missed Class,Prefer Another Lecturer,Read from Materials Only,Unrelated Talk,Course Understanding,Overall Satisfaction,Class Management,Supportiveness
+Science,Computer science,Mr. Obinna Eze,2008,Rain,2,5,3,4,1,3,1,5,2
+Science,Data Science,Mr. Obinna Eze,2009,Harmattan,5,2,2,4,1,3,5,4,3
+Science,cybersecurity,Mrs.Fatima Ibrahim,2003,Rain,3,1,2,2,2,1,1,5,2
+Science,Computer science,Mr. Obinna Eze,2013,Harmattan,1,5,3,1,5,2,5,1,1
+Science,L.I.S,Dr.Aisha Mohammed,2008,Harmattan,3,3,5,5,2,4,3,3,1
+Science,cybersecurity,Mr. Obinna Eze,2006,Harmattan,1,4,1,2,5,3,1,2,5
+Science,cybersecurity,Prof.Emeka Nwosu,2015,Rain,2,1,3,5,2,3,3,4,3
+Science,L.I.S,Dr.Tunde.A.O,2016,Rain,2,4,4,5,4,5,4,2,4
+Science,cybersecurity,Dr.Aisha Mohammed,2005,Harmattan,5,2,3,4,5,1,3,5,2
+Science,L.I.S,Mrs.Fatima Ibrahim,2009,Harmattan,1,3,5,1,2,4,1,3,2
+Science,Data Science,Mr. Obinna Eze,2004,Harmattan,1,3,4,1,4,4,1,4,2
+Science,cybersecurity,Dr.Chinwe Okonkwo,2016,Harmattan,2,5,5,2,5,1,3,4,3
+Science,L.I.S,Dr.Tunde.A.O,2008,Harmattan,1,1,5,3,2,5,3,3,5
+Science,Data Science,Dr.Aisha Mohammed,2007,Rain,2,2,4,2,3,2,4,2,2
+Science,cybersecurity,Dr.Tunde.A.O,2019,Rain,3,3,2,4,2,3,5,2,4
+Science,Computer science,Prof.Emeka Nwosu,2006,Harmattan,4,4,5,4,5,3,3,2,3
+Science,L.I.S,Mrs.Fatima Ibrahim,2015,Rain,5,1,5,4,1,2,3,1,5
+Science,L.I.S,Mrs.Fatima Ibrahim,2008,Rain,1,2,3,2,5,5,1,4,3
+Science,Data Science,Mrs.Fatima Ibrahim,2000,Harmattan,1,4,3,1,5,1,4,3,3
+Science,L.I.S,Dr.Aisha Mohammed,2020,Rain,3,1,3,5,3,1,5,3,5
+Science,Data Science,Dr.Chinwe Okonkwo,2020,Rain,5,4,3,5,3,3,1,2,4
+Science,Computer science,Prof.Emeka Nwosu,2005,Harmattan,1,3,1,1,1,3,1,4,5
+Science,Data Science,Dr.Chinwe Okonkwo,2022,Rain,2,5,2,1,5,2,3,1,3
+Science,Computer science,Dr.Aisha Mohammed,2004,Rain,3,4,1,4,4,3,4,2,3
+Science,Data Science,Dr.Chinwe Okonkwo,2000,Harmattan,4,3,4,3,2,3,4,4,1
+Science,cybersecurity,Prof.Emeka Nwosu,2018,Rain,5,3,4,5,5,4,5,4,3
+Science,cybersecurity,Dr.Aisha Mohammed,2004,Rain,5,3,3,3,4,3,4,2,4
+Science,cybersecurity,Prof.Emeka Nwosu,2012,Rain,3,3,5,3,4,3,5,2,1
+Science,Data Science,Dr.Aisha Mohammed,2019,Rain,1,1,3,1,4,5,2,2,2
+Science,cybersecurity,Dr.Tunde.A.O,2012,Harmattan,4,5,2,1,4,3,4,5,4
+Science,L.I.S,Mrs.Fatima Ibrahim,2014,Harmattan,3,4,1,1,2,3,2,5,1
+Science,cybersecurity,Mrs.Fatima Ibrahim,2009,Rain,5,3,2,3,5,5,3,3,5
+Science,cybersecurity,Mrs.Fatima Ibrahim,2012,Rain,4,3,4,2,5,1,4,4,3
+Science,L.I.S,Dr.Tunde.A.O,2006,Harmattan,5,5,4,5,5,4,5,5,4
+Science,cybersecurity,Dr.Tunde.A.O,2007,Rain,2,4,4,1,4,4,2,3,4
+Science,Data Science,Dr.Chinwe Okonkwo,2007,Rain,3,3,1,3,4,1,2,1,2
+Science,L.I.S,Dr.Aisha Mohammed,2000,Harmattan,1,3,5,5,2,3,4,5,3
+Science,L.I.S,Mrs.Fatima Ibrahim,2014,Rain,2,2,5,1,4,1,2,3,5
+Science,L.I.S,Mrs.Fatima Ibrahim,2001,Harmattan,2,1,3,5,2,5,5,5,3
+Science,cybersecurity,Dr.Chinwe Okonkwo,2024,Rain,3,4,5,1,1,4,3,2,4
+Science,Computer science,Dr.Chinwe Okonkwo,2000,Rain,3,2,2,3,1,2,4,3,4
+Science,L.I.S,Dr.Chinwe Okonkwo,2001,Rain,3,5,2,5,4,5,2,2,4
+Science,Data Science,Prof.Emeka Nwosu,2002,Rain,2,5,5,3,5,4,2,4,1
+Science,Data Science,Dr.Chinwe Okonkwo,2004,Harmattan,4,4,2,4,3,4,5,3,4
+Science,L.I.S,Mr. Obinna Eze,2003,Harmattan,1,3,3,3,4,3,4,3,4
+Science,L.I.S,Prof.Emeka Nwosu,2008,Rain,1,5,2,2,2,2,4,2,2
+Science,Computer science,Dr.Chinwe Okonkwo,2009,Rain,3,3,4,5,1,2,5,5,4
+Science,L.I.S,Dr.Chinwe Okonkwo,2004,Harmattan,2,2,4,2,1,5,1,5,2
+Science,Computer science,Dr.Chinwe Okonkwo,2011,Harmattan,3,3,3,1,3,3,1,4,4
+Science,Computer science,Dr.Aisha Mohammed,2000,Harmattan,3,2,5,5,3,4,1,1,5
+Science,Data Science,Dr.Aisha Mohammed,2003,Rain,4,5,4,2,2,5,5,1,2
+Science,cybersecurity,Dr.Chinwe Okonkwo,2023,Harmattan,1,5,3,1,5,5,5,2,1
+Science,L.I.S,Dr.Chinwe Okonkwo,2010,Rain,2,1,5,3,2,1,5,4,3
+Science,Data Science,Prof.Emeka Nwosu,2014,Harmattan,1,1,4,5,3,5,5,1,2
+Science,cybersecurity,Prof.Emeka Nwosu,2020,Rain,1,4,5,3,4,5,5,4,5
+Science,L.I.S,Prof.Emeka Nwosu,2008,Rain,4,1,4,2,5,5,4,3,5
+Science,L.I.S,Mr. Obinna Eze,2006,Rain,5,1,3,3,4,1,3,3,1
+Science,cybersecurity,Dr.Chinwe Okonkwo,2002,Rain,1,4,3,4,4,2,3,2,4
+Science,Computer science,Mrs.Fatima Ibrahim,2003,Rain,2,5,1,3,4,4,1,1,2
+Science,L.I.S,Mr. Obinna Eze,2011,Rain,3,3,1,1,4,1,4,3,3
+Science,Computer science,Dr.Chinwe Okonkwo,2023,Rain,4,2,2,2,5,4,2,2,2
+Science,L.I.S,Dr.Chinwe Okonkwo,2020,Harmattan,5,1,2,5,2,2,2,5,1
+Science,Computer science,Prof.Emeka Nwosu,2018,Rain,4,4,1,4,4,5,3,4,5
+Science,Computer science,Mr. Obinna Eze,2024,Harmattan,2,1,2,3,2,5,3,4,2
+Science,Computer science,Dr.Chinwe Okonkwo,2003,Rain,5,1,3,5,3,1,5,2,5
+Science,cybersecurity,Dr.Aisha Mohammed,2000,Rain,2,3,1,5,4,3,3,5,5
+Science,L.I.S,Dr.Aisha Mohammed,2017,Harmattan,1,5,5,2,2,2,4,3,3
+Science,cybersecurity,Dr.Chinwe Okonkwo,2011,Rain,3,4,3,3,5,2,3,3,1
+Science,cybersecurity,Prof.Emeka Nwosu,2018,Harmattan,2,1,2,2,3,2,3,5,5
+Science,L.I.S,Mr. Obinna Eze,2021,Harmattan,4,4,2,5,5,1,3,5,3
+Science,Data Science,Dr.Tunde.A.O,2008,Rain,5,4,2,1,5,4,1,4,4
+Science,Computer science,Mrs.Fatima Ibrahim,2022,Harmattan,2,1,4,2,5,5,1,3,2
+Science,Computer science,Mrs.Fatima Ibrahim,2013,Rain,1,1,1,4,4,3,3,5,2
+Science,Computer science,Dr.Chinwe Okonkwo,2014,Harmattan,2,3,1,5,3,4,2,2,4
+Science,Computer science,Mrs.Fatima Ibrahim,2022,Rain,5,5,1,1,1,4,2,3,3
+Science,cybersecurity,Mrs.Fatima Ibrahim,2023,Rain,3,5,2,3,4,5,5,2,4
+Science,cybersecurity,Dr.Chinwe Okonkwo,2009,Rain,3,2,5,2,4,5,3,3,5
+Science,L.I.S,Dr.Aisha Mohammed,2021,Harmattan,5,3,4,5,1,3,2,5,1
+Science,L.I.S,Dr.Aisha Mohammed,2016,Rain,2,1,5,3,4,5,1,2,5
+Science,L.I.S,Mrs.Fatima Ibrahim,2006,Harmattan,3,5,2,5,1,4,5,5,4
+Science,Data Science,Prof.Emeka Nwosu,2006,Rain,2,5,3,4,1,1,2,1,3
+Science,Data Science,Mr. Obinna Eze,2005,Harmattan,1,5,1,1,1,2,3,1,5
+Science,Computer science,Dr.Tunde.A.O,2012,Rain,2,2,3,2,5,5,1,5,2
+Science,Data Science,Dr.Aisha Mohammed,2019,Harmattan,5,4,2,1,5,2,5,4,4
+Science,Computer science,Dr.Aisha Mohammed,2004,Harmattan,3,3,4,5,2,4,3,1,2
+Science,Computer science,Mrs.Fatima Ibrahim,2022,Rain,4,4,3,2,4,1,5,3,3
+Science,L.I.S,Mr. Obinna Eze,2002,Harmattan,2,3,2,4,5,5,5,2,4
+Science,L.I.S,Dr.Chinwe Okonkwo,2012,Harmattan,4,3,5,1,2,2,4,4,4
+Science,Computer science,Dr.Aisha Mohammed,2018,Rain,4,1,5,5,5,1,1,5,4
+Science,L.I.S,Mr. Obinna Eze,2011,Harmattan,2,3,1,3,3,1,3,1,2
+Science,Data Science,Mr. Obinna Eze,2018,Rain,3,1,3,2,4,4,4,4,1
+Science,Computer science,Dr.Chinwe Okonkwo,2001,Rain,1,2,2,5,4,2,5,3,2
+Science,Data Science,Prof.Emeka Nwosu,2003,Rain,4,2,5,4,3,1,1,4,2
+Science,Data Science,Dr.Aisha Mohammed,2021,Rain,2,4,5,4,2,1,1,4,5
+Science,Data Science,Dr.Tunde.A.O,2023,Rain,5,5,5,4,1,1,4,2,1
+Science,cybersecurity,Mrs.Fatima Ibrahim,2016,Rain,2,2,3,3,3,5,4,5,5
+Science,L.I.S,Dr.Chinwe Okonkwo,2012,Rain,3,5,5,5,5,1,3,4,3
+Science,Data Science,Prof.Emeka Nwosu,2011,Rain,1,2,3,5,4,3,3,4,5
+Science,Computer science,Mr. Obinna Eze,2009,Rain,3,1,3,2,3,4,5,4,5
+Science,L.I.S,Dr.Tunde.A.O,2003,Harmattan,3,3,3,4,4,4,2,5,4
+Science,Data Science,Mr. Obinna Eze,2000,Harmattan,2,2,1,1,5,5,5,3,5
+Science,L.I.S,Prof.Emeka Nwosu,2005,Rain,1,2,4,3,3,3,3,2,3
+Science,Computer science,Prof.Emeka Nwosu,2006,Harmattan,3,2,2,5,3,2,2,2,1
+Science,Computer science,Prof.Emeka Nwosu,2008,Rain,3,1,3,3,2,3,4,4,5
+Science,cybersecurity,Dr.Aisha Mohammed,2005,Rain,4,4,1,1,4,2,1,3,5
+Science,Computer science,Dr.Tunde.A.O,2018,Harmattan,2,5,3,4,5,5,1,1,2
+Science,L.I.S,Mrs.Fatima Ibrahim,2001,Rain,4,1,4,2,2,1,4,1,2
+Science,Data Science,Dr.Chinwe Okonkwo,2017,Rain,5,2,5,3,4,3,5,1,2
+Science,Data Science,Dr.Chinwe Okonkwo,2018,Harmattan,4,1,5,2,2,3,1,3,1
+Science,Data Science,Mr. Obinna Eze,2017,Harmattan,4,2,2,2,5,1,3,4,4
+Science,cybersecurity,Dr.Chinwe Okonkwo,2021,Rain,1,3,3,5,1,2,1,5,5
+Science,cybersecurity,Mrs.Fatima Ibrahim,2023,Harmattan,3,5,4,5,5,2,3,2,5
+Science,Data Science,Mr. Obinna Eze,2018,Harmattan,4,2,2,2,1,5,1,2,2
+Science,Computer science,Prof.Emeka Nwosu,2009,Rain,3,2,5,4,1,5,4,2,2
+Science,Computer science,Dr.Aisha Mohammed,2004,Rain,4,5,4,1,5,1,1,5,3
+Science,Data Science,Dr.Chinwe Okonkwo,2006,Harmattan,2,3,4,1,4,5,3,5,1
+Science,Data Science,Prof.Emeka Nwosu,2019,Harmattan,5,3,4,2,2,1,4,1,3
+Science,Data Science,Dr.Aisha Mohammed,2021,Harmattan,3,5,2,2,3,3,4,1,5
+Science,cybersecurity,Dr.Aisha Mohammed,2018,Rain,5,1,4,2,2,5,3,4,1
+Science,L.I.S,Mrs.Fatima Ibrahim,2010,Harmattan,3,4,5,4,2,3,1,3,3
+Science,cybersecurity,Prof.Emeka Nwosu,2018,Rain,4,2,2,3,5,2,1,4,1
+Science,Computer science,Dr.Chinwe Okonkwo,2009,Harmattan,2,1,4,3,3,3,2,4,2
+Science,Computer science,Prof.Emeka Nwosu,2022,Rain,2,4,4,5,3,1,4,4,3
+Science,L.I.S,Dr.Chinwe Okonkwo,2017,Rain,3,3,4,4,1,5,2,2,1
+Science,Data Science,Prof.Emeka Nwosu,2010,Rain,5,1,5,3,3,5,4,2,1
+Science,Data Science,Prof.Emeka Nwosu,2022,Rain,4,5,3,1,3,3,3,3,1
+Science,L.I.S,Prof.Emeka Nwosu,2001,Harmattan,4,1,1,5,2,4,4,1,5
+Science,Data Science,Mr. Obinna Eze,2018,Harmattan,2,2,2,5,2,3,1,2,1
+Science,Computer science,Prof.Emeka Nwosu,2005,Rain,3,1,5,5,3,4,2,2,4
+Science,cybersecurity,Dr.Tunde.A.O,2010,Rain,1,3,4,1,3,3,2,3,3
+Science,cybersecurity,Dr.Chinwe Okonkwo,2004,Harmattan,2,3,4,4,4,1,3,1,5
+Science,cybersecurity,Dr.Aisha Mohammed,2011,Rain,5,2,1,4,5,2,1,4,4
+Science,Data Science,Mr. Obinna Eze,2015,Harmattan,5,2,1,5,5,1,2,4,3
+Science,L.I.S,Mrs.Fatima Ibrahim,2002,Rain,3,1,2,5,4,3,3,2,5
+Science,L.I.S,Dr.Aisha Mohammed,2018,Rain,5,4,5,5,3,1,2,4,3
+Science,L.I.S,Dr.Chinwe Okonkwo,2015,Harmattan,1,4,3,1,5,2,4,2,2
+Science,cybersecurity,Mrs.Fatima Ibrahim,2007,Harmattan,5,2,5,3,4,5,5,1,5
+Science,L.I.S,Prof.Emeka Nwosu,2024,Rain,4,3,1,4,2,3,5,5,3
+Science,cybersecurity,Dr.Tunde.A.O,2007,Harmattan,2,2,5,3,1,5,2,5,1
+Science,L.I.S,Mr. Obinna Eze,2021,Harmattan,4,4,2,4,4,1,2,4,4
+Science,Data Science,Prof.Emeka Nwosu,2022,Harmattan,3,1,4,5,5,3,4,4,5
+Science,Computer science,Prof.Emeka Nwosu,2004,Rain,4,2,2,4,4,4,2,2,2
+Science,cybersecurity,Mrs.Fatima Ibrahim,2011,Harmattan,4,2,1,1,2,4,2,2,4
+Science,cybersecurity,Prof.Emeka Nwosu,2002,Harmattan,3,4,1,2,4,2,5,2,1
+Science,cybersecurity,Prof.Emeka Nwosu,2013,Rain,5,5,5,2,5,4,1,5,1
+Science,cybersecurity,Prof.Emeka Nwosu,2020,Harmattan,5,5,4,2,2,1,3,3,3
+Science,cybersecurity,Mr. Obinna Eze,2023,Harmattan,2,3,5,3,1,4,2,4,1
+Science,Computer science,Prof.Emeka Nwosu,2021,Rain,4,4,5,5,3,3,5,4,3
+Science,cybersecurity,Mr. Obinna Eze,2024,Rain,1,1,5,5,5,4,1,1,1
+Science,Data Science,Dr.Aisha Mohammed,2013,Harmattan,2,2,1,4,2,3,4,3,4
+Science,cybersecurity,Dr.Aisha Mohammed,2008,Rain,3,1,3,3,1,4,1,4,1
+Science,cybersecurity,Mrs.Fatima Ibrahim,2008,Rain,2,3,4,3,3,2,3,3,1
+Science,Computer science,Dr.Chinwe Okonkwo,2002,Rain,3,3,5,5,1,3,4,5,5
+Science,Data Science,Dr.Chinwe Okonkwo,2011,Harmattan,4,2,1,4,3,3,1,2,4
+Science,cybersecurity,Dr.Aisha Mohammed,2017,Harmattan,4,1,1,3,2,3,1,3,1
+Science,L.I.S,Dr.Tunde.A.O,2019,Rain,2,4,3,4,2,4,1,2,4
+Science,cybersecurity,Prof.Emeka Nwosu,2020,Rain,3,3,5,1,4,5,5,4,4
+Science,Data Science,Prof.Emeka Nwosu,2012,Harmattan,1,5,5,1,4,3,4,4,5
+Science,L.I.S,Dr.Tunde.A.O,2003,Harmattan,3,5,3,2,2,3,1,2,1
+Science,L.I.S,Dr.Aisha Mohammed,2022,Rain,2,3,5,4,5,1,4,3,5
+Science,L.I.S,Mr. Obinna Eze,2015,Rain,3,2,3,5,5,3,3,5,3
+Science,Data Science,Dr.Aisha Mohammed,2017,Harmattan,1,2,3,3,5,3,4,4,3
+Science,cybersecurity,Dr.Aisha Mohammed,2005,Harmattan,2,2,4,3,2,1,1,4,3
+Science,L.I.S,Dr.Tunde.A.O,2014,Harmattan,5,3,5,3,2,1,4,5,4
+Science,cybersecurity,Dr.Chinwe Okonkwo,2002,Harmattan,1,1,3,5,4,1,1,3,2
+Science,L.I.S,Dr.Tunde.A.O,2000,Harmattan,4,5,4,3,3,5,1,2,5
+Science,Computer science,Mr. Obinna Eze,2010,Harmattan,5,1,5,1,1,3,2,5,4
+Science,L.I.S,Prof.Emeka Nwosu,2018,Harmattan,3,1,2,3,3,3,5,2,5
+Science,L.I.S,Mrs.Fatima Ibrahim,2017,Harmattan,2,3,4,2,3,2,4,4,4
+Science,Data Science,Dr.Chinwe Okonkwo,2004,Rain,1,2,4,5,1,1,2,2,2
+Science,Computer science,Dr.Chinwe Okonkwo,2002,Rain,4,1,2,1,1,3,1,4,5
+Science,cybersecurity,Mrs.Fatima Ibrahim,2018,Harmattan,1,1,4,4,1,5,5,2,4
+Science,cybersecurity,Dr.Tunde.A.O,2019,Rain,1,2,3,5,1,3,5,4,5
+Science,Computer science,Dr.Aisha Mohammed,2017,Rain,1,4,2,4,3,1,1,5,4
+Science,cybersecurity,Dr.Tunde.A.O,2012,Harmattan,3,1,2,5,3,3,3,5,5
+Science,L.I.S,Mrs.Fatima Ibrahim,2003,Harmattan,4,4,2,5,1,3,5,2,1
+Science,L.I.S,Prof.Emeka Nwosu,2001,Rain,1,4,1,2,4,3,1,1,4
+Science,L.I.S,Prof.Emeka Nwosu,2012,Harmattan,2,4,2,4,2,5,3,3,3
+Science,cybersecurity,Prof.Emeka Nwosu,2020,Harmattan,3,1,4,1,3,4,3,5,3
+Science,Computer science,Dr.Tunde.A.O,2016,Rain,4,4,2,3,1,1,3,4,1
+Science,Data Science,Dr.Tunde.A.O,2019,Rain,1,5,2,5,1,3,5,3,4
+Science,Data Science,Mr. Obinna Eze,2016,Rain,4,2,1,4,1,4,1,5,5
+Science,cybersecurity,Dr.Tunde.A.O,2018,Rain,4,4,3,3,5,3,1,5,3
+Science,Data Science,Mr. Obinna Eze,2022,Rain,3,2,3,2,3,4,3,5,1
+Science,Computer science,Dr.Tunde.A.O,2015,Rain,4,4,1,4,5,4,1,5,2
+Science,Computer science,Dr.Aisha Mohammed,2002,Rain,1,5,3,5,4,2,5,2,3
+Science,cybersecurity,Mrs.Fatima Ibrahim,2013,Harmattan,1,5,1,5,5,1,1,5,5
+Science,cybersecurity,Mr. Obinna Eze,2024,Harmattan,5,4,5,1,5,4,1,5,2
+Science,Computer science,Dr.Chinwe Okonkwo,2022,Rain,4,4,3,5,5,1,2,4,2
+Science,Data Science,Mrs.Fatima Ibrahim,2000,Rain,3,2,4,1,1,3,5,1,5
+Science,Computer science,Mr. Obinna Eze,2011,Rain,3,4,3,3,5,2,1,4,4
+Science,cybersecurity,Dr.Aisha Mohammed,2018,Harmattan,2,4,1,1,5,3,1,4,2
+Science,cybersecurity,Dr.Tunde.A.O,2002,Harmattan,1,4,5,2,5,5,3,1,5
+Science,L.I.S,Prof.Emeka Nwosu,2011,Harmattan,5,5,5,5,1,5,4,1,1
+Science,L.I.S,Dr.Aisha Mohammed,2001,Rain,2,4,2,3,5,2,2,5,4
+Science,Data Science,Dr.Tunde.A.O,2018,Harmattan,4,2,5,2,2,1,2,3,4
+Science,Computer science,Prof.Emeka Nwosu,2008,Harmattan,5,3,1,2,3,2,1,4,2
+Science,Data Science,Mr. Obinna Eze,2010,Harmattan,2,3,1,3,3,3,1,5,5
+Science,cybersecurity,Mr. Obinna Eze,2015,Harmattan,2,2,4,5,1,3,2,4,3
+Science,cybersecurity,Mrs.Fatima Ibrahim,2024,Rain,4,4,3,4,1,5,3,4,3
+Science,L.I.S,Mrs.Fatima Ibrahim,2007,Rain,5,5,3,1,1,4,1,1,1
+Science,Computer science,Mrs.Fatima Ibrahim,2011,Rain,2,2,1,3,5,5,2,4,3
+Science,Computer science,Prof.Emeka Nwosu,2019,Rain,4,3,4,3,2,1,2,5,4
+Science,Computer science,Dr.Chinwe Okonkwo,2005,Rain,3,5,1,3,3,3,2,3,4
+Science,L.I.S,Mr. Obinna Eze,2024,Rain,2,4,1,3,1,1,2,4,2
+Science,cybersecurity,Dr.Chinwe Okonkwo,2004,Harmattan,4,3,4,1,5,4,5,3,4
+Science,Computer science,Mr. Obinna Eze,2002,Harmattan,3,2,1,2,1,1,2,1,3
+Science,cybersecurity,Mr. Obinna Eze,2015,Harmattan,1,2,4,3,1,3,5,5,1
+Science,cybersecurity,Prof.Emeka Nwosu,2004,Rain,4,1,5,3,3,1,4,1,5
+Science,Computer science,Mrs.Fatima Ibrahim,2022,Harmattan,1,3,5,2,4,1,5,2,1
+Science,Data Science,Dr.Aisha Mohammed,2012,Rain,3,5,4,1,1,2,4,1,5
+Science,cybersecurity,Dr.Chinwe Okonkwo,2017,Harmattan,5,1,4,4,4,5,5,3,4
+Science,L.I.S,Prof.Emeka Nwosu,2012,Rain,3,3,4,2,5,5,5,1,4
+Science,cybersecurity,Mr. Obinna Eze,2008,Rain,3,5,4,4,1,2,1,2,5
+Science,cybersecurity,Dr.Chinwe Okonkwo,2002,Harmattan,2,4,3,4,1,3,2,3,3
+Science,L.I.S,Dr.Tunde.A.O,2012,Rain,5,2,2,2,5,4,5,3,2
+Science,cybersecurity,Prof.Emeka Nwosu,2007,Harmattan,2,4,4,2,4,1,5,2,1
+Science,L.I.S,Dr.Aisha Mohammed,2003,Harmattan,3,5,4,3,4,3,5,5,4
+Science,cybersecurity,Dr.Chinwe Okonkwo,2005,Harmattan,1,3,2,5,4,4,2,3,3
+Science,cybersecurity,Dr.Tunde.A.O,2019,Harmattan,3,3,4,2,2,2,1,3,3
+Science,Computer science,Dr.Aisha Mohammed,2016,Rain,1,5,2,1,4,1,3,2,5
+Science,cybersecurity,Mrs.Fatima Ibrahim,2002,Rain,3,2,2,1,5,3,2,3,3
+Science,cybersecurity,Prof.Emeka Nwosu,2014,Rain,5,4,5,3,1,3,1,1,5
+Science,L.I.S,Mrs.Fatima Ibrahim,2019,Harmattan,1,1,5,2,2,1,4,3,2
+Science,L.I.S,Mr. Obinna Eze,2023,Rain,3,4,2,3,1,4,3,2,3
+Science,L.I.S,Dr.Chinwe Okonkwo,2015,Rain,2,5,2,1,1,1,5,1,5
+Science,Data Science,Prof.Emeka Nwosu,2012,Rain,4,1,4,4,5,2,4,5,3
+Science,L.I.S,Dr.Aisha Mohammed,2013,Rain,4,2,5,5,1,5,2,2,2
+Science,cybersecurity,Mr. Obinna Eze,2009,Rain,2,5,2,1,1,1,4,1,2
+Science,Data Science,Prof.Emeka Nwosu,2021,Harmattan,4,5,1,4,2,2,3,2,3
+Science,Data Science,Mr. Obinna Eze,2016,Rain,1,1,5,4,1,4,3,1,3
+Science,Computer science,Mr. Obinna Eze,2008,Rain,2,5,4,1,4,2,5,3,3
+Science,L.I.S,Dr.Aisha Mohammed,2020,Rain,4,1,5,5,5,3,2,1,1
+Science,Data Science,Dr.Tunde.A.O,2004,Harmattan,2,5,3,1,2,4,4,1,5
+Science,L.I.S,Dr.Aisha Mohammed,2002,Rain,2,3,3,2,1,1,5,5,3
+Science,L.I.S,Dr.Aisha Mohammed,2016,Rain,1,5,3,4,2,2,3,5,3
+Science,Computer science,Dr.Tunde.A.O,2012,Harmattan,2,5,2,5,1,4,1,1,5
+Science,L.I.S,Prof.Emeka Nwosu,2018,Rain,4,2,3,4,5,1,5,4,5
+Science,cybersecurity,Prof.Emeka Nwosu,2024,Harmattan,4,2,5,1,4,5,5,2,5
+Science,cybersecurity,Dr.Tunde.A.O,2000,Harmattan,5,5,2,1,5,4,5,4,1
+Science,Data Science,Dr.Aisha Mohammed,2011,Rain,2,1,3,4,2,4,4,5,2
+Science,cybersecurity,Dr.Chinwe Okonkwo,2012,Rain,1,1,5,5,5,5,5,4,5
+Science,Data Science,Dr.Chinwe Okonkwo,2018,Harmattan,2,1,2,2,2,1,4,3,4
+Science,L.I.S,Dr.Tunde.A.O,2023,Harmattan,1,3,1,5,2,5,3,2,5
+Science,Data Science,Mr. Obinna Eze,2020,Harmattan,5,2,5,3,4,1,5,3,1
+Science,Data Science,Dr.Aisha Mohammed,2008,Rain,4,5,5,3,1,2,2,4,2
+Science,L.I.S,Prof.Emeka Nwosu,2012,Rain,1,1,1,5,3,2,3,4,5
+Science,L.I.S,Prof.Emeka Nwosu,2021,Harmattan,4,4,4,2,2,5,2,2,4
+Science,Data Science,Dr.Chinwe Okonkwo,2023,Harmattan,4,1,5,2,5,4,2,3,3
+Science,L.I.S,Dr.Chinwe Okonkwo,2018,Harmattan,3,2,2,4,2,5,1,5,5
+Science,cybersecurity,Dr.Tunde.A.O,2007,Rain,4,3,3,2,4,4,2,5,2
+Science,Computer science,Dr.Tunde.A.O,2000,Harmattan,5,2,3,4,3,1,2,5,3
+Science,Computer science,Dr.Aisha Mohammed,2023,Harmattan,1,2,2,3,3,3,2,2,4
+Science,Data Science,Dr.Tunde.A.O,2019,Harmattan,1,2,4,2,5,3,5,2,1
+Science,Computer science,Mr. Obinna Eze,2001,Rain,3,1,3,2,4,2,2,2,5
+Science,Computer science,Dr.Chinwe Okonkwo,2006,Rain,2,3,3,4,3,1,3,2,4
+Science,L.I.S,Dr.Tunde.A.O,2001,Rain,3,2,4,2,2,1,3,5,4
+Science,cybersecurity,Mrs.Fatima Ibrahim,2006,Rain,3,1,5,5,5,5,1,1,1
+Science,Computer science,Mrs.Fatima Ibrahim,2013,Harmattan,4,4,5,3,4,4,3,2,2
+Science,Computer science,Mrs.Fatima Ibrahim,2006,Harmattan,3,2,2,5,4,4,5,3,2
+Science,Computer science,Dr.Aisha Mohammed,2008,Harmattan,3,3,4,3,2,4,3,3,4
+Science,Data Science,Dr.Chinwe Okonkwo,2001,Harmattan,3,4,4,5,2,4,5,3,1
+Science,Computer science,Mr. Obinna Eze,2017,Harmattan,1,4,3,4,4,1,4,2,5
+Science,Data Science,Prof.Emeka Nwosu,2009,Harmattan,1,3,1,5,2,1,1,5,5
+Science,Computer science,Mr. Obinna Eze,2021,Rain,3,1,5,2,4,4,5,1,2
+Science,Computer science,Prof.Emeka Nwosu,2005,Harmattan,5,5,5,1,4,4,2,1,4
+Science,cybersecurity,Prof.Emeka Nwosu,2014,Rain,3,3,3,4,4,2,5,2,4
+Science,Computer science,Dr.Aisha Mohammed,2010,Rain,2,4,5,4,4,1,3,4,4
+Science,Computer science,Mrs.Fatima Ibrahim,2014,Harmattan,5,3,2,2,2,2,5,5,2
+Science,Computer science,Dr.Aisha Mohammed,2016,Rain,3,4,4,5,1,1,3,1,4
+Science,Computer science,Dr.Tunde.A.O,2003,Rain,1,2,2,2,5,4,5,4,3
+Science,cybersecurity,Dr.Aisha Mohammed,2007,Harmattan,2,3,3,2,5,3,5,5,3
+Science,L.I.S,Dr.Chinwe Okonkwo,2007,Harmattan,1,2,4,2,5,1,2,3,1
+Science,Computer science,Dr.Aisha Mohammed,2021,Rain,1,1,1,5,3,5,3,1,5
+Science,L.I.S,Prof.Emeka Nwosu,2011,Harmattan,5,5,4,5,4,2,5,4,3
+Science,Data Science,Prof.Emeka Nwosu,2010,Rain,4,1,4,3,5,1,1,2,3
+Science,L.I.S,Dr.Tunde.A.O,2005,Harmattan,5,2,4,1,4,5,5,1,3
+Science,Data Science,Dr.Chinwe Okonkwo,2018,Harmattan,5,3,4,2,2,5,5,4,1
+Science,Data Science,Prof.Emeka Nwosu,2020,Rain,5,3,2,4,4,1,4,5,3
+Science,cybersecurity,Prof.Emeka Nwosu,2005,Harmattan,1,5,3,5,5,3,5,3,2
+Science,L.I.S,Mrs.Fatima Ibrahim,2020,Harmattan,5,2,3,1,2,3,4,5,3
+Science,L.I.S,Dr.Aisha Mohammed,2012,Harmattan,4,5,1,4,2,1,2,2,4
+Science,cybersecurity,Prof.Emeka Nwosu,2009,Harmattan,2,2,4,3,3,5,2,3,5
+Science,cybersecurity,Mr. Obinna Eze,2013,Harmattan,4,4,5,3,5,1,3,4,4
+Science,Computer science,Mrs.Fatima Ibrahim,2002,Harmattan,4,2,4,2,1,1,4,5,2
+Science,L.I.S,Mrs.Fatima Ibrahim,2010,Harmattan,5,2,2,1,3,1,5,5,3
+Science,Computer science,Dr.Chinwe Okonkwo,2007,Harmattan,1,3,5,5,4,3,1,1,1
+Science,cybersecurity,Dr.Chinwe Okonkwo,2016,Rain,5,4,1,3,1,5,2,1,5
+Science,L.I.S,Dr.Chinwe Okonkwo,2003,Harmattan,3,3,4,1,3,5,2,3,2
+Science,Computer science,Dr.Chinwe Okonkwo,2013,Rain,5,5,1,5,3,1,4,4,2
+Science,L.I.S,Mr. Obinna Eze,2010,Harmattan,2,2,2,2,4,4,5,5,1
+Science,L.I.S,Mr. Obinna Eze,2006,Rain,4,3,3,5,4,1,4,2,5
+Science,Data Science,Prof.Emeka Nwosu,2024,Rain,5,2,5,2,2,5,2,2,5
+Science,Data Science,Mr. Obinna Eze,2010,Harmattan,1,1,2,1,4,4,4,1,4
+Science,Computer science,Dr.Chinwe Okonkwo,2016,Rain,5,5,2,3,5,5,3,2,1
+Science,Data Science,Mr. Obinna Eze,2010,Harmattan,4,2,3,3,2,3,4,3,3
+Science,cybersecurity,Dr.Aisha Mohammed,2022,Rain,2,5,4,2,3,1,3,3,5
+Science,L.I.S,Dr.Chinwe Okonkwo,2003,Harmattan,5,1,2,4,3,2,1,3,3
+Science,Computer science,Mr. Obinna Eze,2015,Harmattan,3,2,5,5,5,1,1,3,4
+Science,cybersecurity,Dr.Aisha Mohammed,2012,Harmattan,2,3,5,1,3,2,1,3,4
+Science,cybersecurity,Mrs.Fatima Ibrahim,2008,Harmattan,2,4,4,5,2,2,1,2,3
+Science,Data Science,Dr.Chinwe Okonkwo,2022,Rain,3,4,2,4,2,5,2,5,3
+Science,cybersecurity,Dr.Tunde.A.O,2022,Harmattan,1,4,1,5,3,5,2,5,4
+Science,cybersecurity,Dr.Aisha Mohammed,2009,Harmattan,1,5,4,3,4,3,2,1,4
+Science,L.I.S,Mrs.Fatima Ibrahim,2012,Rain,2,4,5,1,3,2,1,2,2
+Science,cybersecurity,Mrs.Fatima Ibrahim,2018,Rain,2,3,1,5,2,2,3,4,5
+Science,cybersecurity,Dr.Aisha Mohammed,2003,Harmattan,5,4,1,3,5,2,5,4,4
+Science,Data Science,Prof.Emeka Nwosu,2018,Rain,2,1,3,3,2,2,3,4,4
+Science,Computer science,Dr.Aisha Mohammed,2014,Rain,5,1,1,5,1,3,1,2,4
+Science,L.I.S,Mrs.Fatima Ibrahim,2018,Rain,1,2,1,4,2,3,2,4,3
+Science,Computer science,Dr.Aisha Mohammed,2017,Rain,5,5,5,4,5,3,3,4,1
+Science,Data Science,Mr. Obinna Eze,2020,Harmattan,1,5,3,3,5,2,5,2,2
+Science,Computer science,Mr. Obinna Eze,2014,Harmattan,4,1,4,4,3,1,5,5,4
+Science,cybersecurity,Dr.Aisha Mohammed,2016,Harmattan,2,3,4,4,3,4,3,2,4
+Science,Computer science,Dr.Tunde.A.O,2003,Rain,5,1,4,5,2,5,2,3,5
+Science,Data Science,Dr.Chinwe Okonkwo,2005,Rain,1,3,3,1,2,2,2,2,4
+Science,L.I.S,Mr. Obinna Eze,2009,Rain,3,3,1,1,2,5,3,2,2
+Science,L.I.S,Mrs.Fatima Ibrahim,2016,Harmattan,4,5,3,2,2,5,1,5,1
+Science,Computer science,Prof.Emeka Nwosu,2000,Rain,2,3,2,3,1,1,2,2,4
+Science,Data Science,Mrs.Fatima Ibrahim,2009,Harmattan,5,1,1,5,1,4,1,2,3
+Science,Data Science,Dr.Aisha Mohammed,2000,Rain,3,1,2,3,1,3,4,4,1
+Science,Data Science,Prof.Emeka Nwosu,2014,Harmattan,1,5,3,3,3,5,3,3,3
+Science,Computer science,Dr.Aisha Mohammed,2020,Rain,5,3,2,1,5,5,4,4,4
+Science,Data Science,Dr.Tunde.A.O,2023,Rain,3,1,4,4,4,2,4,1,5
+Science,Data Science,Prof.Emeka Nwosu,2003,Rain,5,4,1,5,5,5,2,1,2
+Science,Computer science,Dr.Tunde.A.O,2015,Rain,4,5,2,4,3,3,2,5,2
+Science,Data Science,Mrs.Fatima Ibrahim,2019,Harmattan,4,4,5,1,2,4,3,5,4
+Science,Data Science,Dr.Tunde.A.O,2009,Rain,1,3,3,3,4,2,2,3,3
+Science,Data Science,Prof.Emeka Nwosu,2008,Rain,4,5,2,4,5,2,5,5,5
+Science,L.I.S,Dr.Chinwe Okonkwo,2020,Harmattan,2,4,2,5,4,5,2,2,2
+Science,L.I.S,Dr.Tunde.A.O,2001,Rain,3,3,4,2,5,3,2,4,3
+Science,Computer science,Mr. Obinna Eze,2016,Harmattan,4,2,2,1,3,5,5,1,1
+Science,Computer science,Mrs.Fatima Ibrahim,2021,Harmattan,4,5,5,2,3,1,4,1,1
+Science,Computer science,Prof.Emeka Nwosu,2015,Harmattan,2,2,4,5,1,3,2,2,3
+Science,cybersecurity,Dr.Aisha Mohammed,2003,Harmattan,1,5,5,4,5,1,3,3,2
+Science,cybersecurity,Prof.Emeka Nwosu,2006,Harmattan,1,1,2,1,1,2,3,4,1
+Science,L.I.S,Prof.Emeka Nwosu,2015,Rain,3,2,1,4,2,5,2,2,3
+Science,Data Science,Mrs.Fatima Ibrahim,2018,Harmattan,2,3,5,2,2,1,1,2,2
+Science,Data Science,Mr. Obinna Eze,2012,Harmattan,5,5,3,2,3,4,1,5,1
+Science,cybersecurity,Prof.Emeka Nwosu,2009,Harmattan,1,4,4,2,4,3,3,5,1
+Science,cybersecurity,Dr.Tunde.A.O,2006,Rain,1,3,5,3,1,2,1,3,3
+Science,L.I.S,Dr.Aisha Mohammed,2019,Harmattan,4,2,1,2,1,5,2,3,2
+Science,L.I.S,Dr.Tunde.A.O,2005,Rain,4,2,2,1,4,5,1,3,4
+Science,L.I.S,Dr.Chinwe Okonkwo,2010,Harmattan,2,3,3,5,4,1,2,3,2
+Science,cybersecurity,Mr. Obinna Eze,2024,Harmattan,5,2,4,3,2,4,3,1,5
+Science,L.I.S,Prof.Emeka Nwosu,2014,Rain,3,1,5,3,1,4,1,5,2
+Science,cybersecurity,Dr.Chinwe Okonkwo,2015,Harmattan,5,2,2,1,3,4,4,5,3
+Science,Computer science,Dr.Chinwe Okonkwo,2007,Harmattan,3,1,1,2,1,4,4,2,1
+Science,L.I.S,Mrs.Fatima Ibrahim,2005,Rain,2,5,2,3,4,3,4,2,4
+Science,L.I.S,Mrs.Fatima Ibrahim,2015,Rain,5,3,4,3,1,3,1,2,1
+Science,cybersecurity,Mrs.Fatima Ibrahim,2018,Harmattan,2,1,4,4,5,4,3,2,1
+Science,Data Science,Dr.Aisha Mohammed,2017,Rain,3,2,2,5,5,2,4,5,5
+Science,cybersecurity,Dr.Chinwe Okonkwo,2023,Harmattan,5,5,1,5,1,4,5,5,4
+Science,cybersecurity,Dr.Aisha Mohammed,2019,Rain,3,1,3,2,5,3,2,5,1
+Science,L.I.S,Mr. Obinna Eze,2001,Rain,3,5,3,1,3,3,3,5,1
+Science,cybersecurity,Mrs.Fatima Ibrahim,2008,Rain,4,4,1,1,4,5,1,5,2
+Science,Computer science,Dr.Chinwe Okonkwo,2022,Harmattan,1,1,1,4,2,3,4,4,5
+Science,Computer science,Dr.Tunde.A.O,2003,Rain,1,3,5,1,5,2,4,3,5
+Science,Computer science,Dr.Chinwe Okonkwo,2007,Rain,4,1,5,5,2,3,5,3,5
+Science,L.I.S,Dr.Tunde.A.O,2006,Rain,1,2,4,5,5,5,2,5,2
+Science,Data Science,Dr.Aisha Mohammed,2000,Rain,5,3,3,1,1,2,5,4,2
+Science,cybersecurity,Dr.Aisha Mohammed,2011,Harmattan,4,1,1,1,1,2,4,1,5
+Science,L.I.S,Prof.Emeka Nwosu,2013,Rain,4,5,4,4,4,4,2,5,2
+Science,Computer science,Dr.Tunde.A.O,2022,Harmattan,2,1,4,2,3,5,5,2,4
+Science,cybersecurity,Dr.Chinwe Okonkwo,2008,Harmattan,5,3,4,1,4,4,1,2,5
+Science,cybersecurity,Mr. Obinna Eze,2023,Rain,3,3,4,2,1,3,4,3,2
+Science,Computer science,Dr.Chinwe Okonkwo,2009,Rain,1,1,3,4,1,5,1,1,2
+Science,cybersecurity,Mr. Obinna Eze,2022,Rain,5,3,5,5,4,4,3,4,5
+Science,Computer science,Dr.Chinwe Okonkwo,2015,Rain,2,1,4,4,1,5,1,5,4
+Science,L.I.S,Prof.Emeka Nwosu,2009,Rain,1,3,1,4,2,4,2,1,4
+Science,L.I.S,Mrs.Fatima Ibrahim,2018,Rain,1,4,2,4,5,3,5,3,5
+Science,L.I.S,Prof.Emeka Nwosu,2006,Harmattan,2,4,5,4,3,4,4,5,5
+Science,Computer science,Dr.Chinwe Okonkwo,2013,Rain,3,4,3,2,2,2,3,2,4
+Science,Data Science,Prof.Emeka Nwosu,2011,Harmattan,1,1,2,3,4,1,4,3,2
+Science,Computer science,Mrs.Fatima Ibrahim,2006,Rain,3,4,5,3,5,1,2,1,2
+Science,L.I.S,Dr.Tunde.A.O,2018,Harmattan,2,1,3,1,3,4,3,5,2
+Science,Computer science,Dr.Tunde.A.O,2017,Rain,2,5,4,3,3,5,3,1,5
+Science,L.I.S,Dr.Tunde.A.O,2010,Rain,5,2,2,4,3,1,2,2,4
+Science,Data Science,Prof.Emeka Nwosu,2013,Rain,3,1,1,5,1,3,1,3,5
+Science,Computer science,Dr.Chinwe Okonkwo,2005,Harmattan,1,3,2,4,3,4,2,4,5
+Science,cybersecurity,Mrs.Fatima Ibrahim,2024,Harmattan,1,2,1,4,1,2,2,3,1
+Science,Data Science,Prof.Emeka Nwosu,2019,Harmattan,3,1,5,5,4,1,1,5,4
+Science,Data Science,Dr.Aisha Mohammed,2023,Rain,2,3,2,5,2,2,2,5,5
+Science,Data Science,Dr.Chinwe Okonkwo,2002,Rain,5,1,4,1,1,4,1,2,1
+Science,Data Science,Dr.Chinwe Okonkwo,2023,Harmattan,5,4,5,1,1,5,5,4,5
+Science,L.I.S,Dr.Chinwe Okonkwo,2022,Rain,1,4,2,3,4,4,3,4,4
+Science,Data Science,Dr.Tunde.A.O,2020,Rain,1,3,4,2,1,2,3,2,5
+Science,cybersecurity,Dr.Chinwe Okonkwo,2012,Harmattan,1,5,1,1,5,3,2,4,4
+Science,Computer science,Prof.Emeka Nwosu,2008,Rain,5,5,3,2,1,4,5,2,3
+Science,Computer science,Dr.Tunde.A.O,2017,Rain,5,5,5,3,1,2,5,4,4
+Science,Computer science,Mr. Obinna Eze,2014,Harmattan,5,4,5,3,4,2,5,4,2
+Science,cybersecurity,Prof.Emeka Nwosu,2016,Rain,5,1,3,4,5,5,1,3,4
+Science,Computer science,Mr. Obinna Eze,2002,Harmattan,3,3,2,4,5,4,5,3,1
+Science,cybersecurity,Mr. Obinna Eze,2012,Rain,3,1,3,3,2,3,5,5,3
+Science,L.I.S,Mr. Obinna Eze,2024,Harmattan,5,3,3,1,2,4,1,5,3
+Science,Computer science,Mr. Obinna Eze,2013,Harmattan,4,3,4,1,2,4,2,5,5
+Science,cybersecurity,Mrs.Fatima Ibrahim,2011,Harmattan,5,1,4,1,3,2,5,3,3
+Science,cybersecurity,Dr.Tunde.A.O,2001,Harmattan,1,1,1,4,5,2,5,4,4
+Science,Data Science,Dr.Tunde.A.O,2016,Harmattan,5,4,3,4,5,4,5,4,2
+Science,Computer science,Dr.Tunde.A.O,2020,Harmattan,5,5,4,2,5,5,1,4,1
+Science,L.I.S,Dr.Aisha Mohammed,2023,Rain,2,3,3,1,4,5,5,1,5
+Science,Data Science,Dr.Tunde.A.O,2016,Rain,5,3,2,5,4,5,1,4,1
+Science,Data Science,Mrs.Fatima Ibrahim,2005,Harmattan,4,3,4,1,5,1,2,2,4
+Science,L.I.S,Mr. Obinna Eze,2000,Harmattan,4,2,4,3,1,3,4,5,2
+Science,Computer science,Prof.Emeka Nwosu,2010,Harmattan,5,2,4,3,5,4,3,1,2
+Science,Computer science,Dr.Chinwe Okonkwo,2012,Harmattan,1,2,1,4,4,4,1,4,1
+Science,L.I.S,Dr.Chinwe Okonkwo,2010,Rain,4,4,2,4,5,4,2,5,1
+Science,cybersecurity,Mr. Obinna Eze,2014,Harmattan,1,1,5,4,2,2,5,3,5
+Science,Computer science,Dr.Aisha Mohammed,2005,Harmattan,5,3,3,5,4,5,4,2,1
+Science,Computer science,Mrs.Fatima Ibrahim,2011,Harmattan,5,3,1,2,2,1,4,3,4
+Science,Data Science,Prof.Emeka Nwosu,2022,Rain,3,2,1,4,2,2,3,2,4
+Science,Computer science,Dr.Tunde.A.O,2019,Harmattan,5,1,1,3,2,1,2,5,3
+Science,Data Science,Mrs.Fatima Ibrahim,2013,Rain,4,3,3,4,2,2,5,5,5
+Science,Data Science,Mr. Obinna Eze,2009,Rain,5,4,2,5,1,3,1,1,1
+Science,Data Science,Dr.Aisha Mohammed,2014,Rain,4,4,4,2,2,2,2,4,4
+Science,cybersecurity,Dr.Aisha Mohammed,2022,Rain,1,5,5,1,5,5,5,4,5
+Science,Computer science,Mrs.Fatima Ibrahim,2024,Harmattan,5,3,3,2,3,2,4,3,1
+Science,cybersecurity,Dr.Aisha Mohammed,2000,Harmattan,2,2,3,1,3,5,3,5,1
+Science,L.I.S,Dr.Chinwe Okonkwo,2015,Harmattan,5,5,2,2,4,3,5,5,4
+Science,Computer science,Mrs.Fatima Ibrahim,2010,Harmattan,2,2,4,3,5,2,1,3,2
+Science,cybersecurity,Mrs.Fatima Ibrahim,2023,Harmattan,1,3,2,5,5,5,4,3,3
+Science,cybersecurity,Mrs.Fatima Ibrahim,2013,Harmattan,1,3,5,2,1,5,2,1,5
+Science,cybersecurity,Dr.Aisha Mohammed,2021,Rain,3,3,5,5,2,5,3,2,4
+Science,cybersecurity,Prof.Emeka Nwosu,2017,Rain,1,2,4,3,4,5,1,2,4
+Science,L.I.S,Dr.Chinwe Okonkwo,2018,Rain,4,3,5,2,4,3,4,3,3
+Science,Computer science,Prof.Emeka Nwosu,2020,Rain,5,5,2,3,2,4,1,3,1
+Science,cybersecurity,Dr.Chinwe Okonkwo,2016,Harmattan,1,5,1,4,4,1,4,4,4
+Science,L.I.S,Mr. Obinna Eze,2000,Rain,1,3,1,3,1,4,4,1,2
+Science,Computer science,Dr.Chinwe Okonkwo,2022,Harmattan,1,1,5,4,2,1,5,3,4
+Science,Computer science,Mrs.Fatima Ibrahim,2020,Harmattan,5,2,4,2,4,2,1,3,1
+Science,Data Science,Mr. Obinna Eze,2022,Rain,4,2,1,1,1,1,3,1,2
+Science,Computer science,Mr. Obinna Eze,2024,Rain,1,3,3,3,4,3,3,4,1
+Science,Computer science,Dr.Chinwe Okonkwo,2011,Harmattan,4,3,1,3,1,5,1,5,3
+Science,L.I.S,Dr.Aisha Mohammed,2004,Harmattan,3,4,2,2,5,4,5,5,5
+Science,Computer science,Dr.Aisha Mohammed,2017,Harmattan,2,1,4,2,5,3,5,4,5
+Science,L.I.S,Mr. Obinna Eze,2015,Rain,2,2,1,5,4,4,1,4,4
+Science,cybersecurity,Mrs.Fatima Ibrahim,2012,Harmattan,1,2,5,2,5,5,5,4,3
+Science,L.I.S,Mrs.Fatima Ibrahim,2018,Rain,3,1,2,3,2,5,2,4,3
+Science,cybersecurity,Dr.Tunde.A.O,2013,Rain,3,4,5,1,3,1,2,5,2
+Science,L.I.S,Mr. Obinna Eze,2003,Harmattan,3,3,5,3,3,5,4,5,2
+Science,Computer science,Dr.Aisha Mohammed,2002,Rain,3,4,5,1,2,5,3,1,4
+Science,cybersecurity,Mr. Obinna Eze,2022,Harmattan,4,4,5,5,2,5,4,4,3
+Science,L.I.S,Dr.Chinwe Okonkwo,2001,Rain,5,2,2,3,4,2,2,4,4
+Science,Data Science,Dr.Chinwe Okonkwo,2021,Rain,4,1,5,4,3,2,4,1,5
+Science,Data Science,Mr. Obinna Eze,2014,Harmattan,5,3,3,1,5,3,2,2,2
+Science,Computer science,Mrs.Fatima Ibrahim,2008,Rain,3,1,4,3,3,3,3,1,5
+Science,L.I.S,Mrs.Fatima Ibrahim,2020,Rain,2,2,3,5,2,5,5,1,5
+Science,Computer science,Dr.Chinwe Okonkwo,2009,Harmattan,5,2,2,1,1,1,5,2,2
+Science,Data Science,Dr.Chinwe Okonkwo,2005,Harmattan,3,4,3,5,3,2,2,4,1
+Science,cybersecurity,Dr.Chinwe Okonkwo,2002,Harmattan,1,3,5,1,4,3,1,3,1
+Science,L.I.S,Dr.Aisha Mohammed,2009,Harmattan,1,2,4,2,4,3,1,5,2
+Science,cybersecurity,Dr.Tunde.A.O,2024,Rain,5,5,5,1,5,2,2,1,2
+Science,L.I.S,Mr. Obinna Eze,2003,Harmattan,2,1,1,2,5,5,4,3,2
+Science,Data Science,Dr.Tunde.A.O,2014,Harmattan,1,2,2,2,5,3,3,1,2
+Science,L.I.S,Dr.Aisha Mohammed,2023,Harmattan,3,5,5,4,4,4,4,2,5
+Science,L.I.S,Mrs.Fatima Ibrahim,2003,Rain,4,4,4,2,1,5,3,5,1
+Science,Computer science,Dr.Chinwe Okonkwo,2017,Harmattan,1,5,1,5,1,5,5,5,1
+Science,Data Science,Dr.Aisha Mohammed,2007,Harmattan,1,2,2,5,4,4,4,3,1
+Science,L.I.S,Mr. Obinna Eze,2020,Harmattan,4,3,4,1,2,4,5,5,5
+Science,L.I.S,Mr. Obinna Eze,2023,Rain,5,3,3,1,4,3,4,1,4
+Science,L.I.S,Mr. Obinna Eze,2018,Harmattan,4,5,4,1,5,5,4,4,4
+Science,L.I.S,Mrs.Fatima Ibrahim,2006,Rain,2,1,5,3,5,3,3,4,1
+Science,L.I.S,Prof.Emeka Nwosu,2022,Rain,2,5,3,2,4,3,4,4,3
+Science,L.I.S,Dr.Aisha Mohammed,2003,Rain,4,5,5,2,3,1,1,2,2
+Science,Data Science,Mr. Obinna Eze,2017,Rain,3,1,1,5,5,3,3,2,3
+Science,Computer science,Prof.Emeka Nwosu,2002,Rain,4,3,5,5,5,3,2,4,4
+Science,L.I.S,Dr.Tunde.A.O,2001,Rain,3,3,1,2,5,3,2,3,2
+Science,L.I.S,Mrs.Fatima Ibrahim,2024,Harmattan,5,3,1,4,3,2,3,5,3
+Science,cybersecurity,Prof.Emeka Nwosu,2018,Rain,3,3,5,1,4,2,4,1,3
+Science,cybersecurity,Dr.Aisha Mohammed,2021,Harmattan,4,2,4,5,3,4,4,4,2
+Science,L.I.S,Dr.Chinwe Okonkwo,2020,Harmattan,3,5,4,2,3,3,2,2,1
+Science,Data Science,Prof.Emeka Nwosu,2009,Rain,1,4,1,4,3,2,2,1,2
+Science,cybersecurity,Dr.Chinwe Okonkwo,2014,Harmattan,4,5,5,2,1,2,2,1,4
+Science,L.I.S,Dr.Aisha Mohammed,2008,Harmattan,3,4,2,2,5,5,4,2,2
+Science,cybersecurity,Prof.Emeka Nwosu,2000,Rain,5,1,2,4,1,3,4,5,1
+Science,Data Science,Dr.Chinwe Okonkwo,2023,Harmattan,4,3,1,5,3,1,1,3,5
+Science,Computer science,Prof.Emeka Nwosu,2000,Harmattan,1,2,3,5,3,2,5,3,2
+Science,Data Science,Dr.Aisha Mohammed,2000,Harmattan,2,2,1,4,4,2,1,1,3
+Science,cybersecurity,Mr. Obinna Eze,2014,Rain,2,3,4,4,2,5,4,1,1
+Science,L.I.S,Mrs.Fatima Ibrahim,2001,Harmattan,2,1,3,1,1,5,1,3,3
+Science,L.I.S,Prof.Emeka Nwosu,2000,Harmattan,5,1,1,2,4,1,2,1,4
+Science,Data Science,Mrs.Fatima Ibrahim,2018,Harmattan,4,1,5,2,3,2,3,5,2
+Science,Data Science,Dr.Chinwe Okonkwo,2001,Rain,3,3,3,5,5,5,3,1,5
+Science,cybersecurity,Dr.Aisha Mohammed,2015,Rain,1,5,4,5,1,5,1,2,2
+Science,L.I.S,Prof.Emeka Nwosu,2018,Harmattan,2,3,2,2,2,4,4,3,3
+Science,L.I.S,Dr.Tunde.A.O,2011,Rain,3,2,1,2,4,3,1,4,2
+Science,Data Science,Prof.Emeka Nwosu,2012,Harmattan,3,5,3,4,4,1,4,2,4
+Science,cybersecurity,Dr.Aisha Mohammed,2021,Harmattan,3,2,3,4,1,2,4,1,5
+Science,Data Science,Mrs.Fatima Ibrahim,2020,Rain,3,2,4,1,4,3,5,4,2
+Science,Data Science,Prof.Emeka Nwosu,2010,Rain,1,2,5,1,4,1,5,1,2
+Science,L.I.S,Prof.Emeka Nwosu,2001,Rain,2,4,2,4,4,4,3,2,3
+Science,cybersecurity,Dr.Tunde.A.O,2008,Rain,1,1,2,1,4,4,4,2,3
+Science,Computer science,Mr. Obinna Eze,2006,Harmattan,4,4,2,1,2,2,4,2,3
+Science,Computer science,Dr.Chinwe Okonkwo,2013,Rain,4,2,3,1,5,4,1,2,4
+Science,cybersecurity,Dr.Aisha Mohammed,2003,Rain,3,2,1,2,2,2,2,4,3
+Science,Computer science,Dr.Aisha Mohammed,2010,Harmattan,4,4,2,3,1,2,4,5,2
+Science,Data Science,Prof.Emeka Nwosu,2024,Harmattan,5,1,5,4,1,1,1,4,4
+Science,cybersecurity,Dr.Chinwe Okonkwo,2017,Rain,2,3,5,2,4,4,4,2,2
+Science,Data Science,Prof.Emeka Nwosu,2016,Rain,1,4,1,3,1,5,5,4,3
+Science,Computer science,Dr.Tunde.A.O,2013,Rain,2,3,4,1,4,4,2,3,5
+Science,cybersecurity,Mrs.Fatima Ibrahim,2007,Rain,1,4,2,5,1,2,5,2,5
+Science,L.I.S,Dr.Chinwe Okonkwo,2018,Harmattan,1,5,4,3,4,5,5,3,1
+Science,cybersecurity,Mr. Obinna Eze,2000,Rain,1,2,3,4,1,3,3,1,2
+Science,L.I.S,Dr.Chinwe Okonkwo,2008,Harmattan,2,1,5,2,3,1,3,2,4
+Science,Data Science,Prof.Emeka Nwosu,2004,Harmattan,5,1,5,5,3,4,1,5,5
+Science,L.I.S,Dr.Chinwe Okonkwo,2012,Rain,1,2,2,2,5,3,4,5,4
+Science,cybersecurity,Prof.Emeka Nwosu,2007,Rain,1,3,2,1,2,3,1,1,1
+Science,Computer science,Dr.Aisha Mohammed,2022,Rain,2,4,3,3,2,1,4,2,2
+Science,Data Science,Prof.Emeka Nwosu,2022,Harmattan,5,4,4,3,1,2,1,3,1
+Science,cybersecurity,Prof.Emeka Nwosu,2020,Rain,3,5,3,1,3,2,5,1,2
+Science,cybersecurity,Prof.Emeka Nwosu,2003,Rain,4,3,3,3,1,1,4,1,5
+Science,Computer science,Mrs.Fatima Ibrahim,2002,Harmattan,4,1,5,3,4,1,5,1,1
+Science,Data Science,Dr.Tunde.A.O,2022,Harmattan,1,2,2,1,3,3,5,2,4
+Science,Data Science,Mr. Obinna Eze,2011,Harmattan,5,3,1,4,5,4,2,1,4
+Science,cybersecurity,Dr.Chinwe Okonkwo,2020,Rain,2,1,4,4,3,4,3,2,1
+Science,L.I.S,Prof.Emeka Nwosu,2021,Rain,5,5,2,4,2,3,5,5,3
+Science,cybersecurity,Dr.Tunde.A.O,2010,Harmattan,4,3,2,4,4,4,2,4,5
+Science,Data Science,Dr.Tunde.A.O,2012,Harmattan,3,2,5,1,5,3,1,4,3
+Science,L.I.S,Dr.Tunde.A.O,2017,Rain,4,4,2,2,3,4,3,4,4
+Science,Data Science,Dr.Tunde.A.O,2022,Harmattan,5,1,3,3,4,4,5,5,1
+Science,cybersecurity,Mr. Obinna Eze,2010,Rain,4,3,5,3,3,1,3,3,1
+Science,cybersecurity,Dr.Aisha Mohammed,2001,Harmattan,3,5,4,2,4,2,4,1,4
+Science,L.I.S,Prof.Emeka Nwosu,2016,Harmattan,2,5,3,5,3,4,3,3,1
+Science,cybersecurity,Mr. Obinna Eze,2014,Harmattan,5,2,2,3,5,2,4,5,3
+Science,Data Science,Mrs.Fatima Ibrahim,2024,Rain,4,1,5,3,4,3,1,5,3
+Science,cybersecurity,Prof.Emeka Nwosu,2002,Rain,4,3,3,5,1,1,1,2,3
+Science,L.I.S,Dr.Chinwe Okonkwo,2022,Rain,2,1,2,5,3,4,3,1,4
+Science,Computer science,Prof.Emeka Nwosu,2006,Rain,2,5,2,3,1,3,3,2,1
+Science,Data Science,Dr.Tunde.A.O,2016,Harmattan,1,5,5,5,2,2,2,5,3
+Science,Data Science,Mr. Obinna Eze,2005,Harmattan,3,5,4,3,5,2,5,3,5
+Science,Computer science,Dr.Chinwe Okonkwo,2009,Harmattan,5,5,4,1,4,4,3,4,1
+Science,Computer science,Mr. Obinna Eze,2000,Rain,2,5,1,5,5,5,1,2,1
+Science,L.I.S,Dr.Aisha Mohammed,2002,Harmattan,2,3,1,1,3,4,3,5,1
+Science,Data Science,Prof.Emeka Nwosu,2011,Harmattan,4,1,5,1,2,4,1,2,3
+Science,cybersecurity,Mr. Obinna Eze,2007,Rain,5,3,2,4,5,3,5,2,2
+Science,L.I.S,Dr.Chinwe Okonkwo,2014,Rain,3,5,1,5,4,1,3,1,3
+Science,cybersecurity,Mrs.Fatima Ibrahim,2013,Rain,1,2,1,5,4,2,2,5,2
+Science,Computer science,Prof.Emeka Nwosu,2013,Rain,2,3,4,3,5,3,2,2,3
+Science,Data Science,Mrs.Fatima Ibrahim,2008,Rain,4,3,4,2,3,4,4,4,3
+Science,L.I.S,Dr.Aisha Mohammed,2016,Rain,5,3,3,2,3,5,1,2,4
+Science,L.I.S,Prof.Emeka Nwosu,2015,Rain,1,1,5,4,2,2,4,1,5
+Science,L.I.S,Dr.Aisha Mohammed,2004,Rain,2,4,2,1,5,4,1,1,2
+Science,Data Science,Mr. Obinna Eze,2004,Harmattan,1,3,3,3,1,3,1,5,3
+Science,Computer science,Dr.Aisha Mohammed,2013,Harmattan,3,2,4,2,2,3,5,2,1
+Science,Computer science,Mrs.Fatima Ibrahim,2012,Harmattan,2,1,2,3,5,4,3,4,1
+Science,Data Science,Mr. Obinna Eze,2017,Harmattan,4,2,2,2,3,4,1,1,2
+Science,L.I.S,Mr. Obinna Eze,2011,Harmattan,3,4,4,2,3,3,4,3,5
+Science,L.I.S,Dr.Tunde.A.O,2003,Harmattan,1,5,1,4,1,5,4,5,4
+Science,cybersecurity,Dr.Chinwe Okonkwo,2000,Rain,1,3,3,2,3,5,4,2,5
+Science,Computer science,Dr.Aisha Mohammed,2022,Harmattan,2,5,3,2,2,4,1,5,2
+Science,Computer science,Mrs.Fatima Ibrahim,2020,Rain,3,3,3,3,3,4,1,1,1
+Science,Data Science,Dr.Chinwe Okonkwo,2004,Rain,1,1,1,1,5,3,4,3,5
+Science,cybersecurity,Dr.Aisha Mohammed,2014,Rain,3,1,4,4,4,1,1,2,4
+Science,cybersecurity,Dr.Aisha Mohammed,2019,Harmattan,5,2,4,4,4,2,4,5,5
+Science,Data Science,Dr.Tunde.A.O,2012,Rain,2,1,2,4,4,5,3,4,4
+Science,Computer science,Dr.Chinwe Okonkwo,2024,Rain,2,5,3,1,2,5,1,3,2
+Science,Data Science,Dr.Aisha Mohammed,2024,Rain,4,4,5,3,1,4,2,2,5
+Science,Computer science,Prof.Emeka Nwosu,2008,Harmattan,4,1,4,2,3,5,5,4,4
+Science,Data Science,Dr.Tunde.A.O,2022,Rain,5,5,2,2,5,4,3,3,4
+Science,Computer science,Mr. Obinna Eze,2012,Rain,3,3,4,5,2,2,1,3,5
+Science,Data Science,Dr.Aisha Mohammed,2022,Harmattan,3,3,2,1,4,4,4,1,5
+Science,L.I.S,Dr.Aisha Mohammed,2020,Harmattan,2,2,1,4,3,5,4,1,2
+Science,cybersecurity,Dr.Chinwe Okonkwo,2015,Harmattan,1,4,2,3,2,3,1,5,5
+Science,Computer science,Dr.Aisha Mohammed,2010,Rain,1,5,4,3,1,3,1,1,3
+Science,Computer science,Prof.Emeka Nwosu,2014,Harmattan,2,2,5,3,5,1,3,4,1
+Science,cybersecurity,Dr.Tunde.A.O,2010,Harmattan,2,5,4,2,5,4,5,4,4
+Science,cybersecurity,Dr.Chinwe Okonkwo,2015,Rain,4,4,1,2,4,5,5,3,4
+Science,Computer science,Prof.Emeka Nwosu,2003,Rain,1,1,5,5,4,4,1,1,3
+Science,cybersecurity,Prof.Emeka Nwosu,2024,Rain,4,4,3,5,3,5,1,4,1
+Science,cybersecurity,Dr.Tunde.A.O,2021,Harmattan,4,2,5,1,3,3,5,4,2
+Science,L.I.S,Dr.Chinwe Okonkwo,2012,Rain,4,1,5,3,4,2,3,1,1
+Science,L.I.S,Mr. Obinna Eze,2014,Harmattan,4,5,5,1,1,2,5,2,1
+Science,Computer science,Mr. Obinna Eze,2007,Rain,2,2,3,5,1,5,5,4,1
+Science,cybersecurity,Dr.Tunde.A.O,2008,Rain,1,1,4,4,3,2,3,1,5
+Science,cybersecurity,Dr.Chinwe Okonkwo,2006,Rain,2,1,2,2,5,5,5,5,5
+Science,Data Science,Dr.Chinwe Okonkwo,2010,Harmattan,5,2,3,1,5,5,3,2,1
+Science,cybersecurity,Mr. Obinna Eze,2005,Rain,3,5,3,4,5,5,5,4,4
+Science,cybersecurity,Dr.Chinwe Okonkwo,2014,Rain,5,1,3,4,4,3,1,3,3
+Science,cybersecurity,Dr.Aisha Mohammed,2013,Rain,2,4,4,5,1,4,2,5,2
+Science,cybersecurity,Prof.Emeka Nwosu,2021,Harmattan,1,2,3,2,4,4,4,5,2
+Science,Computer science,Mr. Obinna Eze,2005,Harmattan,1,4,2,4,2,4,1,1,5
+Science,cybersecurity,Mrs.Fatima Ibrahim,2022,Rain,3,4,4,4,4,5,1,4,1
+Science,L.I.S,Dr.Chinwe Okonkwo,2013,Rain,2,2,1,3,4,3,3,3,4
+Science,L.I.S,Dr.Aisha Mohammed,2011,Rain,1,3,2,2,1,3,2,2,5
+Science,cybersecurity,Mr. Obinna Eze,2024,Harmattan,4,3,4,2,3,3,5,1,5
+Science,Data Science,Dr.Chinwe Okonkwo,2000,Harmattan,1,1,2,4,3,1,2,5,1
+Science,Data Science,Dr.Chinwe Okonkwo,2023,Rain,3,3,4,3,3,4,5,1,4
+Science,cybersecurity,Mr. Obinna Eze,2003,Harmattan,1,3,3,2,2,1,3,3,2
+Science,cybersecurity,Dr.Tunde.A.O,2001,Rain,4,4,2,5,5,3,2,3,5
+Science,L.I.S,Dr.Tunde.A.O,2012,Harmattan,4,2,2,5,2,5,2,3,3
+Science,Data Science,Dr.Tunde.A.O,2003,Harmattan,3,1,4,1,2,1,2,5,2
+Science,Data Science,Mr. Obinna Eze,2007,Rain,1,4,4,3,4,3,4,1,5
+Science,cybersecurity,Mrs.Fatima Ibrahim,2022,Harmattan,5,5,3,1,5,3,5,2,5
+Science,Computer science,Dr.Aisha Mohammed,2018,Harmattan,5,1,5,5,2,2,2,2,5
+Science,Data Science,Dr.Tunde.A.O,2012,Rain,3,2,1,1,3,5,5,5,1
+Science,cybersecurity,Dr.Chinwe Okonkwo,2008,Rain,5,3,1,1,5,5,1,4,2
+Science,cybersecurity,Mr. Obinna Eze,2002,Rain,1,1,2,5,2,2,1,3,3
+Science,cybersecurity,Mr. Obinna Eze,2019,Harmattan,5,4,5,3,4,5,2,4,3
+Science,L.I.S,Dr.Chinwe Okonkwo,2009,Harmattan,1,2,3,2,2,3,3,1,5
+Science,Computer science,Dr.Chinwe Okonkwo,2016,Rain,4,2,4,3,4,2,4,1,3
+Science,cybersecurity,Prof.Emeka Nwosu,2008,Rain,1,3,2,3,5,4,4,2,1
+Science,L.I.S,Mr. Obinna Eze,2008,Harmattan,1,3,4,4,1,3,4,5,3
+Science,Data Science,Mrs.Fatima Ibrahim,2020,Rain,1,2,3,1,5,1,1,4,1
+Science,cybersecurity,Dr.Tunde.A.O,2012,Rain,4,1,2,5,4,5,2,1,4
+Science,Computer science,Mr. Obinna Eze,2008,Harmattan,2,1,4,5,1,1,2,3,1
+Science,L.I.S,Dr.Chinwe Okonkwo,2013,Rain,1,5,1,5,5,1,2,3,5
+Science,L.I.S,Prof.Emeka Nwosu,2007,Harmattan,3,3,3,4,3,3,1,5,3
+Science,cybersecurity,Mrs.Fatima Ibrahim,2013,Rain,5,3,4,4,4,2,1,1,3
+Science,Computer science,Dr.Chinwe Okonkwo,2006,Harmattan,4,5,4,3,3,2,5,4,3
+Science,L.I.S,Dr.Tunde.A.O,2019,Harmattan,4,4,1,5,2,2,5,4,4
+Science,Data Science,Dr.Tunde.A.O,2015,Harmattan,4,3,2,4,5,3,3,3,4
+Science,cybersecurity,Mr. Obinna Eze,2006,Rain,5,1,2,1,1,2,1,4,4
+Science,Computer science,Dr.Chinwe Okonkwo,2009,Harmattan,2,1,5,5,3,1,1,1,2
+Science,L.I.S,Dr.Tunde.A.O,2024,Rain,4,4,2,1,3,2,3,4,5
+Science,Data Science,Dr.Tunde.A.O,2020,Harmattan,2,3,2,2,3,3,4,1,3
+Science,L.I.S,Dr.Chinwe Okonkwo,2020,Harmattan,1,2,3,1,5,3,1,2,1
+Science,Data Science,Dr.Chinwe Okonkwo,2016,Harmattan,5,5,4,1,1,4,2,3,3
+Science,Data Science,Prof.Emeka Nwosu,2014,Harmattan,3,3,3,4,5,1,5,5,4
+Science,L.I.S,Dr.Chinwe Okonkwo,2015,Harmattan,4,1,2,2,2,4,4,1,2
+Science,Data Science,Dr.Chinwe Okonkwo,2007,Harmattan,3,2,5,5,1,4,5,2,1
+Science,cybersecurity,Mr. Obinna Eze,2020,Harmattan,5,1,3,3,2,3,3,1,1
+Science,Data Science,Dr.Aisha Mohammed,2020,Harmattan,5,1,4,3,4,3,2,5,4
+Science,cybersecurity,Mrs.Fatima Ibrahim,2002,Harmattan,4,3,5,3,3,2,1,4,3
+Science,cybersecurity,Mrs.Fatima Ibrahim,2003,Rain,3,5,3,3,2,1,2,4,1
+Science,cybersecurity,Prof.Emeka Nwosu,2022,Rain,5,4,4,2,4,2,1,1,3
+Science,Computer science,Prof.Emeka Nwosu,2019,Harmattan,3,4,4,2,1,5,2,2,3
+Science,Computer science,Prof.Emeka Nwosu,2010,Rain,2,4,5,1,3,2,4,4,2
+Science,cybersecurity,Dr.Tunde.A.O,2014,Harmattan,2,2,1,2,3,3,3,5,1
+Science,L.I.S,Prof.Emeka Nwosu,2020,Rain,2,4,1,1,5,1,5,5,3
+Science,Data Science,Dr.Chinwe Okonkwo,2020,Harmattan,1,5,3,5,4,5,5,3,2
+Science,L.I.S,Dr.Tunde.A.O,2008,Harmattan,3,2,2,3,4,1,4,1,4
+Science,cybersecurity,Dr.Tunde.A.O,2015,Harmattan,3,1,2,5,1,5,4,1,5
+Science,Computer science,Dr.Tunde.A.O,2007,Harmattan,3,3,4,5,1,2,2,4,3
+Science,Data Science,Dr.Aisha Mohammed,2023,Rain,2,2,5,2,2,4,3,2,1
+Science,cybersecurity,Mrs.Fatima Ibrahim,2004,Harmattan,4,2,5,3,3,3,5,3,1
+Science,Computer science,Dr.Chinwe Okonkwo,2024,Harmattan,5,1,4,4,5,5,4,4,5
+Science,Computer science,Mrs.Fatima Ibrahim,2011,Harmattan,1,5,1,2,4,4,4,3,4
+Science,cybersecurity,Mrs.Fatima Ibrahim,2016,Harmattan,1,1,1,4,4,2,3,3,3
+Science,cybersecurity,Dr.Chinwe Okonkwo,2024,Harmattan,5,5,3,4,3,1,5,1,3
+Science,Data Science,Mrs.Fatima Ibrahim,2019,Harmattan,5,4,2,4,4,4,5,3,2
+Science,Data Science,Mrs.Fatima Ibrahim,2000,Rain,3,5,4,1,2,3,3,1,2
+Science,cybersecurity,Dr.Chinwe Okonkwo,2004,Harmattan,5,5,2,1,5,4,3,3,4
+Science,cybersecurity,Mrs.Fatima Ibrahim,2002,Harmattan,2,1,2,3,3,5,3,5,3
+Science,Data Science,Dr.Aisha Mohammed,2008,Rain,1,3,5,2,4,5,4,2,1
+Science,Computer science,Mr. Obinna Eze,2003,Rain,5,1,3,5,4,4,4,1,2
+Science,L.I.S,Dr.Tunde.A.O,2004,Rain,2,5,5,5,3,2,2,1,3
+Science,cybersecurity,Mrs.Fatima Ibrahim,2012,Harmattan,2,2,3,3,5,5,2,4,2
+Science,cybersecurity,Prof.Emeka Nwosu,2011,Rain,5,5,1,3,4,2,1,3,1
+Science,Data Science,Dr.Tunde.A.O,2001,Rain,1,5,3,4,1,4,2,4,1
+Science,L.I.S,Dr.Aisha Mohammed,2019,Harmattan,5,3,5,4,1,3,5,2,5
+Science,L.I.S,Mrs.Fatima Ibrahim,2024,Rain,1,2,4,3,3,5,5,3,4
+Science,Computer science,Prof.Emeka Nwosu,2018,Harmattan,4,3,3,4,3,3,4,4,3
+Science,Computer science,Mr. Obinna Eze,2013,Rain,4,3,1,1,1,4,4,4,3
+Science,L.I.S,Dr.Aisha Mohammed,2008,Harmattan,3,1,1,4,1,1,1,1,4
+Science,Data Science,Mrs.Fatima Ibrahim,2019,Rain,2,1,5,4,5,3,4,1,2
+Science,L.I.S,Dr.Aisha Mohammed,2001,Rain,3,2,5,2,2,3,5,2,5
+Science,cybersecurity,Dr.Chinwe Okonkwo,2002,Rain,4,4,4,3,5,1,5,1,3
+Science,cybersecurity,Mrs.Fatima Ibrahim,2021,Harmattan,4,1,5,1,1,3,3,5,1
+Science,Computer science,Dr.Tunde.A.O,2006,Rain,3,4,1,4,1,2,3,3,1
+Science,cybersecurity,Mrs.Fatima Ibrahim,2001,Harmattan,3,4,4,4,4,2,3,2,4
+Science,cybersecurity,Dr.Tunde.A.O,2008,Harmattan,1,1,5,1,5,1,1,4,1
+Science,Data Science,Prof.Emeka Nwosu,2021,Rain,5,1,1,2,1,1,2,4,1
+Science,Computer science,Dr.Tunde.A.O,2012,Rain,2,3,4,5,2,5,2,2,5
+Science,L.I.S,Mrs.Fatima Ibrahim,2012,Harmattan,1,2,2,5,1,2,2,3,2
+Science,Computer science,Mr. Obinna Eze,2005,Rain,5,3,2,2,5,1,1,1,2
+Science,Computer science,Mr. Obinna Eze,2012,Rain,3,3,4,1,1,5,1,1,3
+Science,Data Science,Prof.Emeka Nwosu,2021,Rain,4,3,5,3,1,1,3,2,3
+Science,L.I.S,Dr.Chinwe Okonkwo,2017,Harmattan,3,5,1,4,3,2,1,2,5
+Science,cybersecurity,Dr.Aisha Mohammed,2017,Rain,3,3,3,2,1,3,5,4,2
+Science,cybersecurity,Prof.Emeka Nwosu,2020,Rain,5,2,3,3,4,4,5,2,2
+Science,L.I.S,Dr.Tunde.A.O,2013,Rain,1,3,5,3,2,1,1,2,1
+Science,L.I.S,Dr.Aisha Mohammed,2020,Rain,4,1,1,1,1,5,3,2,1
+Science,Computer science,Mr. Obinna Eze,2016,Rain,5,5,1,2,5,3,5,2,5
+Science,L.I.S,Dr.Chinwe Okonkwo,2021,Rain,1,5,1,2,4,5,3,5,1
+Science,cybersecurity,Mrs.Fatima Ibrahim,2019,Rain,2,2,1,1,1,2,1,4,2
+Science,cybersecurity,Mr. Obinna Eze,2011,Harmattan,1,4,5,2,4,1,3,4,4
+Science,cybersecurity,Mrs.Fatima Ibrahim,2004,Rain,3,3,5,5,2,4,5,3,2
+Science,cybersecurity,Dr.Aisha Mohammed,2020,Rain,4,5,3,1,5,1,2,5,2
+Science,Computer science,Dr.Chinwe Okonkwo,2001,Rain,4,3,1,2,1,4,3,1,1
+Science,L.I.S,Prof.Emeka Nwosu,2016,Harmattan,4,3,4,3,5,4,4,4,4
+Science,Computer science,Dr.Tunde.A.O,2020,Rain,3,3,2,1,3,5,2,2,2
+Science,L.I.S,Dr.Tunde.A.O,2006,Rain,2,3,4,4,4,5,2,1,4
+Science,L.I.S,Dr.Tunde.A.O,2019,Rain,4,4,2,5,1,3,4,3,4
+Science,L.I.S,Mrs.Fatima Ibrahim,2008,Harmattan,5,4,2,5,2,4,5,4,5
+Science,cybersecurity,Prof.Emeka Nwosu,2006,Rain,4,3,5,2,2,3,1,4,3
+Science,L.I.S,Mrs.Fatima Ibrahim,2012,Rain,4,3,3,1,2,5,1,5,3
+Science,Computer science,Dr.Tunde.A.O,2014,Harmattan,4,5,5,3,1,4,4,1,1
+Science,L.I.S,Dr.Chinwe Okonkwo,2007,Harmattan,5,2,3,4,4,3,5,4,5
+Science,L.I.S,Dr.Chinwe Okonkwo,2000,Rain,2,2,5,4,2,5,3,1,1
+Science,Computer science,Mrs.Fatima Ibrahim,2004,Rain,5,2,3,3,3,5,3,3,4
+Science,cybersecurity,Dr.Aisha Mohammed,2019,Rain,4,4,4,2,2,5,4,3,3
+Science,Computer science,Mr. Obinna Eze,2012,Harmattan,2,5,4,3,3,1,4,4,2
+Science,Data Science,Dr.Chinwe Okonkwo,2021,Harmattan,2,5,5,2,5,4,2,3,4
+Science,Data Science,Dr.Chinwe Okonkwo,2015,Rain,3,2,2,5,1,4,3,4,5
+Science,cybersecurity,Mr. Obinna Eze,2011,Harmattan,5,4,3,4,1,5,3,1,2
+Science,cybersecurity,Dr.Aisha Mohammed,2016,Rain,2,1,2,2,1,1,3,5,5
+Science,Data Science,Dr.Chinwe Okonkwo,2009,Harmattan,4,2,5,3,2,5,2,2,5
+Science,L.I.S,Prof.Emeka Nwosu,2002,Rain,4,2,4,4,2,1,5,3,2
+Science,cybersecurity,Dr.Aisha Mohammed,2004,Harmattan,1,4,1,4,1,5,2,4,5
+Science,L.I.S,Mr. Obinna Eze,2011,Harmattan,3,2,1,3,3,1,3,1,3
+Science,L.I.S,Mr. Obinna Eze,2015,Harmattan,3,4,1,1,5,2,3,3,4
+Science,L.I.S,Mr. Obinna Eze,2012,Harmattan,4,4,5,3,4,1,4,4,5
+Science,cybersecurity,Mr. Obinna Eze,2001,Harmattan,3,4,4,5,2,3,2,5,4
+Science,Computer science,Prof.Emeka Nwosu,2002,Rain,4,3,5,2,5,2,3,2,1
+Science,cybersecurity,Dr.Tunde.A.O,2003,Harmattan,3,2,2,2,5,4,4,1,2
+Science,Computer science,Dr.Aisha Mohammed,2017,Harmattan,5,5,4,1,3,5,2,1,2
+Science,Computer science,Mr. Obinna Eze,2007,Rain,4,2,3,2,3,5,2,1,3
+Science,Computer science,Dr.Tunde.A.O,2013,Rain,4,4,5,2,1,2,3,4,1
+Science,Computer science,Mrs.Fatima Ibrahim,2010,Rain,3,3,4,4,2,3,4,3,5
+Science,L.I.S,Prof.Emeka Nwosu,2008,Harmattan,2,4,3,3,2,3,5,3,3
+Science,cybersecurity,Dr.Aisha Mohammed,2018,Rain,5,2,1,3,2,3,1,1,4
+Science,L.I.S,Dr.Aisha Mohammed,2006,Rain,5,1,3,3,1,3,2,1,3
+Science,Computer science,Mr. Obinna Eze,2006,Rain,3,3,2,4,1,3,3,1,4
+Science,Data Science,Dr.Aisha Mohammed,2019,Harmattan,3,5,1,1,3,5,2,1,4
+Science,L.I.S,Dr.Aisha Mohammed,2010,Harmattan,4,2,5,1,1,1,1,4,4
+Science,cybersecurity,Mrs.Fatima Ibrahim,2017,Rain,1,5,1,1,5,1,3,4,2
+Science,L.I.S,Mrs.Fatima Ibrahim,2020,Rain,4,1,5,4,3,4,1,1,4
+Science,Computer science,Mrs.Fatima Ibrahim,2024,Rain,2,4,2,4,3,3,2,2,1
+Science,Computer science,Mr. Obinna Eze,2003,Harmattan,2,2,3,5,4,2,1,1,4
+Science,Computer science,Prof.Emeka Nwosu,2022,Harmattan,1,1,3,4,5,5,3,3,1
+Science,Data Science,Dr.Tunde.A.O,2022,Rain,5,2,4,5,3,5,5,4,5
+Science,L.I.S,Dr.Aisha Mohammed,2003,Rain,1,1,3,1,1,1,3,1,1
+Science,Data Science,Dr.Tunde.A.O,2014,Harmattan,1,2,2,3,1,1,5,4,5
+Science,Data Science,Mrs.Fatima Ibrahim,2012,Harmattan,4,5,1,1,5,1,5,3,2
+Science,Data Science,Mrs.Fatima Ibrahim,2018,Harmattan,1,4,4,2,2,5,4,5,3
+Science,L.I.S,Dr.Tunde.A.O,2011,Harmattan,2,3,5,1,3,5,4,1,1
+Science,Computer science,Dr.Chinwe Okonkwo,2010,Harmattan,2,2,4,1,5,1,1,2,5
+Science,L.I.S,Dr.Tunde.A.O,2004,Rain,4,2,2,5,4,1,1,3,3
+Science,L.I.S,Dr.Tunde.A.O,2015,Harmattan,4,1,1,4,2,3,3,2,5
+Science,Data Science,Dr.Aisha Mohammed,2002,Rain,1,4,2,5,1,3,4,5,2
+Science,cybersecurity,Dr.Chinwe Okonkwo,2006,Harmattan,1,1,1,5,2,4,2,2,2
+Science,L.I.S,Mr. Obinna Eze,2018,Harmattan,4,5,1,4,2,2,2,3,5
+Science,cybersecurity,Prof.Emeka Nwosu,2024,Harmattan,1,2,4,3,5,3,3,5,5
+Science,L.I.S,Mr. Obinna Eze,2006,Harmattan,2,2,3,2,4,3,5,3,2
+Science,Data Science,Mr. Obinna Eze,2020,Rain,5,1,5,1,3,5,1,5,4
+Science,cybersecurity,Dr.Aisha Mohammed,2015,Harmattan,4,1,3,5,1,2,2,2,3
+Science,cybersecurity,Dr.Chinwe Okonkwo,2000,Harmattan,5,5,2,3,2,3,4,4,2
+Science,Computer science,Dr.Chinwe Okonkwo,2000,Harmattan,4,5,4,1,3,5,5,5,1
+Science,Data Science,Dr.Tunde.A.O,2002,Harmattan,2,1,2,4,1,4,1,3,4
+Science,cybersecurity,Mrs.Fatima Ibrahim,2020,Rain,3,1,1,1,3,4,3,5,2
+Science,L.I.S,Mr. Obinna Eze,2011,Rain,1,4,5,1,4,1,3,4,4
+Science,Data Science,Dr.Aisha Mohammed,2009,Harmattan,3,2,1,4,2,2,1,4,1
+Science,cybersecurity,Dr.Chinwe Okonkwo,2021,Harmattan,2,5,1,4,5,3,3,4,5
+Science,cybersecurity,Dr.Tunde.A.O,2014,Rain,2,5,5,3,3,3,3,2,1
+Science,Data Science,Dr.Chinwe Okonkwo,2023,Harmattan,2,1,5,5,3,3,5,1,3
+Science,L.I.S,Mrs.Fatima Ibrahim,2018,Rain,1,1,4,1,2,4,1,5,1
+Science,Data Science,Dr.Chinwe Okonkwo,2014,Harmattan,4,4,5,3,3,5,2,3,5
+Science,Computer science,Prof.Emeka Nwosu,2009,Rain,4,3,2,1,5,1,5,4,2
+Science,Data Science,Dr.Tunde.A.O,2011,Harmattan,3,2,4,3,1,5,3,2,5
+Science,L.I.S,Prof.Emeka Nwosu,2010,Harmattan,5,3,1,3,3,4,5,4,3
+Science,Data Science,Dr.Chinwe Okonkwo,2022,Harmattan,4,3,4,4,5,3,3,5,4
+Science,L.I.S,Mrs.Fatima Ibrahim,2000,Rain,5,2,1,1,4,5,2,1,5
+Science,Data Science,Prof.Emeka Nwosu,2020,Harmattan,4,4,3,5,5,1,5,2,2
+Science,Data Science,Prof.Emeka Nwosu,2014,Rain,1,5,4,5,4,3,5,4,4
+Science,cybersecurity,Dr.Tunde.A.O,2024,Harmattan,5,2,2,2,2,1,3,2,1
+Science,Computer science,Mrs.Fatima Ibrahim,2010,Rain,4,3,1,3,3,1,5,4,1
+Science,L.I.S,Dr.Tunde.A.O,2014,Harmattan,1,3,4,2,2,1,5,5,4
+Science,cybersecurity,Mrs.Fatima Ibrahim,2007,Rain,5,5,3,1,2,2,5,5,5
+Science,cybersecurity,Mr. Obinna Eze,2008,Rain,2,3,5,5,2,4,2,1,3
+Science,L.I.S,Dr.Chinwe Okonkwo,2021,Rain,4,1,5,1,5,3,1,1,3
+Science,Computer science,Dr.Chinwe Okonkwo,2011,Rain,4,1,2,4,3,1,2,1,1
+Science,L.I.S,Dr.Tunde.A.O,2024,Rain,4,1,3,3,2,4,4,1,3
+Science,Data Science,Mrs.Fatima Ibrahim,2005,Harmattan,3,5,1,2,4,4,4,3,1
+Science,Data Science,Prof.Emeka Nwosu,2001,Rain,5,1,3,1,1,3,5,1,3
+Science,Computer science,Mrs.Fatima Ibrahim,2010,Harmattan,3,4,5,4,4,5,4,1,4
+Science,cybersecurity,Dr.Aisha Mohammed,2001,Rain,2,4,3,4,1,5,2,1,1
+Science,cybersecurity,Dr.Tunde.A.O,2006,Rain,5,1,4,2,4,5,5,1,1
+Science,Computer science,Dr.Chinwe Okonkwo,2010,Rain,3,5,1,5,3,4,1,4,5
+Science,Data Science,Prof.Emeka Nwosu,2008,Harmattan,4,5,5,1,3,3,5,1,4
+Science,L.I.S,Prof.Emeka Nwosu,2011,Rain,3,5,1,5,1,2,5,3,1
+Science,cybersecurity,Dr.Tunde.A.O,2006,Harmattan,1,3,2,4,3,5,3,3,4
+Science,cybersecurity,Mrs.Fatima Ibrahim,2020,Rain,5,2,4,3,2,3,3,1,3
+Science,cybersecurity,Prof.Emeka Nwosu,2023,Harmattan,4,4,1,5,2,5,2,5,2
+Science,cybersecurity,Mrs.Fatima Ibrahim,2007,Rain,2,4,1,5,1,2,1,1,1
+Science,cybersecurity,Dr.Chinwe Okonkwo,2023,Harmattan,3,4,5,5,2,1,4,2,5
+Science,cybersecurity,Mrs.Fatima Ibrahim,2005,Rain,1,3,5,1,3,5,3,2,1
+Science,Data Science,Dr.Aisha Mohammed,2009,Rain,1,1,2,2,5,3,3,4,1
+Science,Data Science,Mrs.Fatima Ibrahim,2006,Rain,5,4,4,4,2,1,3,5,3
+Science,Computer science,Dr.Aisha Mohammed,2012,Harmattan,1,4,4,1,3,4,4,2,2
+Science,Computer science,Mrs.Fatima Ibrahim,2016,Rain,3,5,3,4,2,5,4,2,1
+Science,cybersecurity,Dr.Aisha Mohammed,2002,Harmattan,2,3,4,2,5,3,4,3,4
+Science,cybersecurity,Mrs.Fatima Ibrahim,2000,Harmattan,5,4,2,3,3,3,2,1,1
+Science,Data Science,Dr.Chinwe Okonkwo,2015,Rain,2,2,4,2,3,4,3,3,2
+Science,cybersecurity,Mrs.Fatima Ibrahim,2014,Rain,3,3,3,1,1,4,4,2,3
+Science,Computer science,Dr.Aisha Mohammed,2008,Harmattan,2,4,2,1,2,4,4,2,5
+Science,Data Science,Mr. Obinna Eze,2023,Rain,5,1,2,3,5,4,4,5,5
+Science,L.I.S,Dr.Chinwe Okonkwo,2008,Rain,3,3,4,3,2,5,5,5,3
+Science,Computer science,Mr. Obinna Eze,2002,Rain,3,4,3,2,4,2,4,1,1
+Science,Data Science,Prof.Emeka Nwosu,2000,Rain,2,3,2,3,4,4,1,3,2
+Science,Data Science,Mr. Obinna Eze,2022,Rain,5,3,5,2,4,3,2,2,4
+Science,Computer science,Mrs.Fatima Ibrahim,2016,Harmattan,2,5,5,5,3,4,3,5,1
+Science,cybersecurity,Mr. Obinna Eze,2000,Rain,4,4,3,1,4,1,5,4,5
+Science,L.I.S,Mr. Obinna Eze,2002,Rain,2,3,1,2,5,2,3,5,3
+Science,cybersecurity,Prof.Emeka Nwosu,2000,Rain,1,1,5,1,3,1,1,1,3
+Science,Data Science,Dr.Tunde.A.O,2005,Harmattan,5,4,5,3,5,5,3,3,5
+Science,Computer science,Mr. Obinna Eze,2016,Rain,3,1,4,5,4,5,4,2,5
+Science,L.I.S,Dr.Tunde.A.O,2012,Harmattan,4,2,4,5,4,4,5,3,2
+Science,Data Science,Dr.Aisha Mohammed,2004,Rain,2,5,4,5,5,4,1,5,5
+Science,cybersecurity,Dr.Aisha Mohammed,2000,Rain,5,4,2,5,2,4,1,2,1
+Science,cybersecurity,Mrs.Fatima Ibrahim,2016,Harmattan,3,2,4,5,5,1,4,1,3
+Science,cybersecurity,Mrs.Fatima Ibrahim,2005,Rain,3,3,2,1,3,5,1,2,3
+Science,Computer science,Dr.Tunde.A.O,2001,Rain,4,3,4,5,1,4,5,5,3
+Science,cybersecurity,Mrs.Fatima Ibrahim,2022,Rain,1,2,5,1,4,3,2,3,5
+Science,Computer science,Dr.Chinwe Okonkwo,2018,Harmattan,1,4,2,3,5,1,2,4,5
+Science,Data Science,Mrs.Fatima Ibrahim,2020,Harmattan,5,4,1,3,4,4,4,2,4
+Science,L.I.S,Dr.Aisha Mohammed,2009,Rain,3,3,3,3,5,4,5,1,3
+Science,cybersecurity,Prof.Emeka Nwosu,2022,Harmattan,3,1,5,4,5,2,1,4,1
+Science,cybersecurity,Dr.Aisha Mohammed,2015,Harmattan,3,1,4,4,5,5,3,1,1
+Science,L.I.S,Dr.Tunde.A.O,2000,Rain,3,4,1,5,2,4,4,3,4
+Science,Computer science,Mr. Obinna Eze,2009,Harmattan,5,1,4,3,1,2,5,1,4
+Science,L.I.S,Dr.Tunde.A.O,2015,Harmattan,3,4,5,4,2,5,1,4,3
+Science,L.I.S,Dr.Aisha Mohammed,2004,Rain,3,2,2,4,1,3,5,5,3
+Science,L.I.S,Dr.Chinwe Okonkwo,2000,Harmattan,1,3,5,3,2,3,2,3,5
+Science,Data Science,Dr.Aisha Mohammed,2024,Rain,3,5,5,2,5,5,3,4,3
+Science,cybersecurity,Dr.Tunde.A.O,2012,Rain,4,4,1,5,5,5,1,4,3
+Science,Data Science,Dr.Tunde.A.O,2017,Harmattan,4,5,3,3,5,1,2,3,3
+Science,L.I.S,Prof.Emeka Nwosu,2018,Rain,3,2,2,3,1,4,1,3,4
+Science,L.I.S,Mrs.Fatima Ibrahim,2020,Harmattan,2,3,4,1,5,3,5,5,5
+Science,Computer science,Mrs.Fatima Ibrahim,2005,Harmattan,4,2,4,2,1,3,2,1,4
+Science,cybersecurity,Dr.Chinwe Okonkwo,2012,Harmattan,1,3,5,1,4,3,2,1,2
+Science,Computer science,Prof.Emeka Nwosu,2005,Rain,4,3,3,5,4,2,4,2,1
+Science,L.I.S,Dr.Tunde.A.O,2020,Harmattan,1,4,1,5,1,4,2,5,3
+Science,cybersecurity,Dr.Chinwe Okonkwo,2008,Rain,1,4,2,4,5,5,4,5,3
+Science,Data Science,Prof.Emeka Nwosu,2006,Harmattan,2,3,2,1,2,1,4,5,4
+Science,cybersecurity,Dr.Chinwe Okonkwo,2011,Harmattan,1,1,3,1,2,5,4,2,4
+Science,L.I.S,Dr.Tunde.A.O,2003,Rain,5,4,4,2,2,1,1,3,3
+Science,cybersecurity,Mr. Obinna Eze,2021,Rain,2,1,2,1,1,1,4,2,3
+Science,cybersecurity,Dr.Aisha Mohammed,2011,Harmattan,3,1,3,5,4,3,4,3,4
+Science,cybersecurity,Dr.Tunde.A.O,2019,Rain,5,4,2,5,2,2,2,5,3
+Science,L.I.S,Mrs.Fatima Ibrahim,2013,Rain,4,4,5,4,5,4,4,3,2
+Science,L.I.S,Dr.Chinwe Okonkwo,2021,Harmattan,4,3,1,2,1,5,2,2,3
+Science,cybersecurity,Mrs.Fatima Ibrahim,2020,Harmattan,2,2,1,1,1,3,2,5,5
+Science,L.I.S,Mrs.Fatima Ibrahim,2010,Rain,4,4,1,4,4,3,3,3,3
+Science,Data Science,Mrs.Fatima Ibrahim,2014,Harmattan,4,2,3,1,4,4,4,4,5
+Science,Computer science,Dr.Aisha Mohammed,2014,Rain,1,4,4,3,4,2,2,1,4
+Science,L.I.S,Dr.Chinwe Okonkwo,2009,Harmattan,4,1,2,3,2,2,4,2,1
+Science,Data Science,Dr.Aisha Mohammed,2011,Rain,3,1,2,2,5,2,5,4,1
+Science,Data Science,Dr.Aisha Mohammed,2024,Rain,4,3,4,5,3,5,2,2,4
+Science,Computer science,Mr. Obinna Eze,2008,Rain,4,5,4,2,2,1,5,5,1
+Science,Computer science,Dr.Aisha Mohammed,2015,Rain,1,5,1,3,3,3,3,2,4
+Science,Computer science,Dr.Tunde.A.O,2021,Rain,2,1,4,5,5,5,1,2,2
+Science,Computer science,Dr.Aisha Mohammed,2024,Rain,3,2,3,5,3,3,1,2,1
+Science,Computer science,Mrs.Fatima Ibrahim,2013,Harmattan,3,1,5,2,5,4,4,5,4
+Science,Computer science,Dr.Aisha Mohammed,2014,Rain,2,4,5,3,3,3,3,2,1
+Science,Computer science,Dr.Chinwe Okonkwo,2009,Rain,5,1,4,2,1,4,2,2,4
+Science,L.I.S,Dr.Chinwe Okonkwo,2005,Rain,1,4,4,4,5,5,3,2,4
+Science,Computer science,Mr. Obinna Eze,2013,Rain,4,1,1,3,2,2,1,4,4
+Science,Computer science,Mr. Obinna Eze,2012,Harmattan,3,2,4,2,2,1,4,3,5
+Science,L.I.S,Dr.Tunde.A.O,2020,Harmattan,5,1,1,2,5,1,2,3,5
+Science,cybersecurity,Dr.Chinwe Okonkwo,2015,Harmattan,5,5,3,2,1,2,5,5,5
+Science,L.I.S,Dr.Tunde.A.O,2001,Rain,2,1,5,3,1,3,1,4,2
+Science,L.I.S,Mr. Obinna Eze,2019,Rain,3,3,1,2,3,3,3,4,2
+Science,L.I.S,Mrs.Fatima Ibrahim,2024,Harmattan,5,3,1,5,3,2,1,4,4
+Science,Computer science,Dr.Chinwe Okonkwo,2010,Harmattan,5,5,5,2,3,2,1,1,5
+Science,cybersecurity,Mrs.Fatima Ibrahim,2007,Harmattan,4,1,2,3,4,1,3,5,1
+Science,cybersecurity,Dr.Chinwe Okonkwo,2004,Rain,4,3,2,2,3,2,5,2,1
+Science,cybersecurity,Dr.Chinwe Okonkwo,2022,Rain,5,2,5,3,5,3,4,3,2
+Science,Data Science,Mrs.Fatima Ibrahim,2008,Harmattan,2,1,3,1,2,5,5,5,4
+Science,Computer science,Mrs.Fatima Ibrahim,2016,Harmattan,3,1,5,3,3,3,3,3,2
+Science,Computer science,Prof.Emeka Nwosu,2002,Harmattan,2,1,4,3,5,4,3,2,1
+Science,Computer science,Mrs.Fatima Ibrahim,2014,Harmattan,5,2,3,5,1,1,4,5,5
+Science,Computer science,Prof.Emeka Nwosu,2003,Harmattan,5,4,5,4,5,2,3,3,4
+Science,Computer science,Dr.Chinwe Okonkwo,2002,Harmattan,2,2,2,2,4,3,2,1,5
+Science,L.I.S,Mrs.Fatima Ibrahim,2021,Harmattan,4,3,2,2,4,3,2,2,3
+Science,cybersecurity,Dr.Aisha Mohammed,2023,Rain,2,1,1,1,3,2,3,1,4
+Science,L.I.S,Dr.Tunde.A.O,2010,Harmattan,4,2,2,4,4,5,5,2,4
+Science,cybersecurity,Dr.Aisha Mohammed,2007,Harmattan,5,5,4,3,2,3,4,1,2
+Science,Data Science,Prof.Emeka Nwosu,2015,Rain,3,2,2,3,1,5,5,4,2
+Science,cybersecurity,Mrs.Fatima Ibrahim,2021,Rain,5,5,2,5,1,5,3,2,5
+Science,cybersecurity,Mr. Obinna Eze,2022,Harmattan,4,3,3,5,3,1,4,4,3
+Science,Data Science,Dr.Chinwe Okonkwo,2022,Harmattan,3,3,1,1,5,1,3,5,4
+Science,cybersecurity,Dr.Chinwe Okonkwo,2009,Harmattan,2,3,3,2,5,1,2,4,5
+Science,cybersecurity,Mr. Obinna Eze,2005,Harmattan,2,3,5,1,5,1,1,3,1
+Science,Data Science,Dr.Aisha Mohammed,2019,Rain,5,3,4,2,4,1,1,4,2
+Science,cybersecurity,Dr.Chinwe Okonkwo,2000,Harmattan,1,3,3,3,2,2,4,4,5
+Science,Computer science,Prof.Emeka Nwosu,2020,Harmattan,3,5,2,5,3,1,3,4,4
+Science,Computer science,Prof.Emeka Nwosu,2018,Rain,5,4,3,4,2,4,4,1,1
+Science,L.I.S,Dr.Tunde.A.O,2015,Harmattan,2,4,1,2,5,3,3,1,3
+Science,Data Science,Mrs.Fatima Ibrahim,2021,Harmattan,1,2,3,3,5,4,3,4,1
+Science,Data Science,Dr.Chinwe Okonkwo,2004,Rain,2,5,2,2,1,3,3,1,1
+Science,L.I.S,Mrs.Fatima Ibrahim,2000,Rain,3,2,3,3,3,3,4,1,5
+Science,Data Science,Dr.Aisha Mohammed,2008,Rain,4,4,2,3,3,3,3,2,4
+Science,Data Science,Mr. Obinna Eze,2018,Harmattan,1,4,1,5,3,2,4,4,5
+Science,L.I.S,Mr. Obinna Eze,2001,Harmattan,1,1,2,2,3,2,2,4,2
+Science,cybersecurity,Dr.Aisha Mohammed,2019,Harmattan,1,2,3,1,2,1,1,5,1
+Science,Data Science,Dr.Aisha Mohammed,2007,Rain,2,2,4,3,3,1,1,3,5
+Science,Computer science,Prof.Emeka Nwosu,2014,Rain,1,5,1,5,1,2,2,3,5
+Science,L.I.S,Dr.Tunde.A.O,2000,Harmattan,4,2,5,4,5,3,2,4,1
+Science,Data Science,Prof.Emeka Nwosu,2012,Harmattan,3,3,1,3,2,5,2,3,3
+Science,L.I.S,Mrs.Fatima Ibrahim,2017,Rain,1,3,2,5,2,5,3,5,3
+Science,Data Science,Dr.Aisha Mohammed,2003,Rain,5,3,5,1,3,2,1,4,2
+Science,Data Science,Dr.Tunde.A.O,2020,Harmattan,3,5,4,1,2,1,1,5,4
+Science,Computer science,Dr.Aisha Mohammed,2024,Rain,1,1,1,3,3,3,4,4,4
+Science,L.I.S,Prof.Emeka Nwosu,2001,Harmattan,1,2,3,2,1,4,1,4,1
+Science,L.I.S,Mrs.Fatima Ibrahim,2019,Rain,3,2,1,4,3,2,4,3,1
+Science,L.I.S,Prof.Emeka Nwosu,2022,Harmattan,5,1,5,3,2,2,5,3,3
+Science,Data Science,Dr.Tunde.A.O,2002,Harmattan,1,2,2,4,5,5,3,3,3
+Science,Data Science,Dr.Aisha Mohammed,2007,Rain,5,2,4,3,5,3,4,1,3
+Science,Computer science,Prof.Emeka Nwosu,2002,Rain,4,1,1,1,5,2,4,1,4
+Science,Data Science,Mr. Obinna Eze,2017,Rain,2,5,4,3,5,3,3,3,5
+Science,cybersecurity,Prof.Emeka Nwosu,2003,Harmattan,1,5,2,5,3,2,5,4,3
+Science,cybersecurity,Prof.Emeka Nwosu,2015,Harmattan,5,5,5,5,2,5,1,3,2
+Science,L.I.S,Dr.Tunde.A.O,2015,Rain,3,4,5,3,4,1,3,1,2
+Science,Data Science,Dr.Tunde.A.O,2023,Harmattan,1,3,2,4,2,3,5,2,5
+Science,Data Science,Dr.Tunde.A.O,2010,Rain,3,5,2,4,2,4,1,2,2
+Science,Data Science,Mrs.Fatima Ibrahim,2013,Harmattan,2,1,5,5,3,1,1,2,2
+Science,Data Science,Dr.Aisha Mohammed,2006,Harmattan,5,1,3,5,1,4,2,2,3
+Science,Data Science,Dr.Chinwe Okonkwo,2001,Rain,3,2,2,5,5,2,4,5,2
+Science,L.I.S,Dr.Aisha Mohammed,2002,Harmattan,3,4,4,1,3,5,1,4,1
+Science,cybersecurity,Dr.Chinwe Okonkwo,2017,Rain,2,1,2,1,1,1,4,2,1
+Science,Computer science,Dr.Aisha Mohammed,2015,Harmattan,3,1,1,5,3,1,5,1,4
+Science,Computer science,Dr.Aisha Mohammed,2018,Harmattan,5,2,1,4,3,4,1,3,1
+Science,Data Science,Mr. Obinna Eze,2006,Rain,3,1,5,3,1,5,3,1,5
+Science,L.I.S,Dr.Tunde.A.O,2020,Harmattan,2,5,4,5,5,1,1,4,4
+Science,L.I.S,Dr.Aisha Mohammed,2019,Rain,2,2,5,3,1,2,3,1,1
+Science,L.I.S,Mrs.Fatima Ibrahim,2003,Harmattan,3,4,4,5,3,5,3,5,4
+Science,Computer science,Mr. Obinna Eze,2001,Harmattan,5,3,5,2,1,5,3,4,3
+Science,Computer science,Mr. Obinna Eze,2004,Rain,2,1,5,4,1,2,3,5,5
+Science,Data Science,Mr. Obinna Eze,2005,Rain,4,5,3,4,1,1,5,4,5
+Science,cybersecurity,Mrs.Fatima Ibrahim,2015,Harmattan,3,3,2,5,1,1,2,5,1
+Science,L.I.S,Mrs.Fatima Ibrahim,2009,Rain,2,5,4,1,5,4,5,2,5
+Science,Computer science,Dr.Tunde.A.O,2016,Harmattan,2,4,1,3,3,2,1,3,3
+Science,cybersecurity,Dr.Chinwe Okonkwo,2015,Rain,3,1,5,1,1,3,4,4,4
+Science,cybersecurity,Dr.Tunde.A.O,2019,Rain,4,3,2,2,4,3,5,3,1
+Science,Computer science,Dr.Aisha Mohammed,2011,Harmattan,5,4,2,5,4,5,2,4,5
+Science,L.I.S,Dr.Chinwe Okonkwo,2001,Rain,1,2,4,4,1,4,2,1,3
+Science,L.I.S,Mrs.Fatima Ibrahim,2002,Harmattan,3,2,2,4,2,3,1,1,2
+Science,Data Science,Dr.Chinwe Okonkwo,2017,Rain,1,5,2,1,4,2,5,5,3
+Science,L.I.S,Mr. Obinna Eze,2005,Rain,2,2,4,4,4,4,1,3,3
+Science,Computer science,Prof.Emeka Nwosu,2011,Rain,1,3,1,4,4,5,2,3,1
+Science,L.I.S,Dr.Aisha Mohammed,2004,Rain,1,5,5,2,5,3,1,5,3
+Science,cybersecurity,Dr.Tunde.A.O,2020,Harmattan,3,5,1,2,1,4,2,3,4
+Science,Data Science,Dr.Tunde.A.O,2008,Rain,5,3,1,3,5,1,3,1,4
+Science,L.I.S,Dr.Chinwe Okonkwo,2024,Harmattan,3,5,5,3,3,3,2,3,4
+Science,Data Science,Prof.Emeka Nwosu,2004,Harmattan,4,2,5,2,4,1,2,2,1
+Science,L.I.S,Dr.Tunde.A.O,2003,Rain,4,3,3,2,2,1,4,1,3
+Science,L.I.S,Mrs.Fatima Ibrahim,2004,Harmattan,5,2,3,4,3,3,5,2,5
+Science,Data Science,Dr.Aisha Mohammed,2019,Harmattan,4,4,3,2,5,4,5,4,5
+Science,L.I.S,Dr.Aisha Mohammed,2009,Harmattan,1,1,3,5,5,1,4,5,3
+Science,L.I.S,Mrs.Fatima Ibrahim,2012,Rain,1,1,5,4,4,1,2,3,3
+Science,cybersecurity,Prof.Emeka Nwosu,2011,Harmattan,5,5,1,4,4,2,5,2,1
+Science,Data Science,Mr. Obinna Eze,2016,Rain,5,4,4,2,5,5,4,4,4
+Science,Computer science,Dr.Aisha Mohammed,2016,Harmattan,3,4,2,3,2,4,1,1,4
+Science,cybersecurity,Mr. Obinna Eze,2003,Harmattan,3,2,1,5,2,1,4,1,4
+Science,Data Science,Mr. Obinna Eze,2016,Rain,2,3,4,1,2,4,4,1,1
+Science,L.I.S,Dr.Chinwe Okonkwo,2018,Harmattan,3,4,5,1,2,3,5,2,4
+Science,Computer science,Dr.Aisha Mohammed,2006,Rain,4,1,4,1,4,4,3,1,3
+Science,Computer science,Dr.Chinwe Okonkwo,2021,Harmattan,1,5,5,4,2,3,1,3,1
+Science,L.I.S,Dr.Chinwe Okonkwo,2008,Rain,2,2,5,5,4,4,2,1,5
+Science,L.I.S,Dr.Tunde.A.O,2002,Rain,4,3,3,2,4,3,2,3,2
+Science,cybersecurity,Mrs.Fatima Ibrahim,2023,Rain,3,5,4,3,5,5,3,4,5
+Science,L.I.S,Prof.Emeka Nwosu,2014,Harmattan,2,4,5,2,4,4,4,1,4
+Science,Data Science,Mr. Obinna Eze,2006,Rain,1,5,5,5,5,3,1,2,4
+Science,Computer science,Dr.Chinwe Okonkwo,2022,Rain,4,1,1,2,2,1,3,2,4
+Science,cybersecurity,Dr.Aisha Mohammed,2019,Harmattan,3,4,1,2,2,2,1,1,5
+Science,L.I.S,Mr. Obinna Eze,2009,Rain,5,1,3,4,3,1,2,5,4
+Science,cybersecurity,Dr.Aisha Mohammed,2024,Harmattan,4,5,5,5,5,2,2,2,5
+Science,cybersecurity,Mr. Obinna Eze,2005,Harmattan,5,5,2,5,3,5,3,3,4
+Science,cybersecurity,Prof.Emeka Nwosu,2013,Rain,5,2,3,1,2,3,3,4,5
+Science,Data Science,Dr.Tunde.A.O,2016,Harmattan,4,5,3,4,2,4,1,1,1
+Science,Computer science,Prof.Emeka Nwosu,2011,Harmattan,1,4,1,2,1,4,3,3,5
+Science,Computer science,Dr.Tunde.A.O,2006,Harmattan,1,4,2,2,3,2,5,3,2
+Science,Computer science,Mr. Obinna Eze,2023,Rain,4,3,3,3,1,4,5,2,3
+Science,Computer science,Dr.Aisha Mohammed,2024,Harmattan,5,3,5,1,5,5,1,1,4
+Science,Data Science,Dr.Chinwe Okonkwo,2015,Rain,3,3,1,5,1,1,3,5,3
+Science,Computer science,Dr.Aisha Mohammed,2022,Rain,2,3,1,1,5,2,3,3,5
+Science,L.I.S,Dr.Tunde.A.O,2005,Harmattan,3,1,5,1,2,1,1,3,2
+Science,L.I.S,Prof.Emeka Nwosu,2024,Rain,2,4,5,1,3,1,1,5,4
+Science,L.I.S,Prof.Emeka Nwosu,2001,Rain,1,5,2,4,3,3,4,3,1
+Science,Computer science,Prof.Emeka Nwosu,2024,Rain,3,1,2,2,4,5,2,4,2
+Science,cybersecurity,Mr. Obinna Eze,2022,Harmattan,5,2,4,1,5,3,5,3,3
+Science,cybersecurity,Dr.Tunde.A.O,2015,Harmattan,4,3,3,2,1,1,4,5,3
+Science,L.I.S,Mrs.Fatima Ibrahim,2001,Rain,5,2,2,2,3,2,5,2,5
+Science,L.I.S,Dr.Aisha Mohammed,2015,Rain,3,3,4,1,1,1,5,5,5
+Science,cybersecurity,Prof.Emeka Nwosu,2001,Harmattan,4,4,2,2,1,2,2,1,1
+Science,Data Science,Mrs.Fatima Ibrahim,2012,Harmattan,3,3,2,1,3,1,3,4,3
+Science,Data Science,Prof.Emeka Nwosu,2016,Harmattan,3,1,2,3,2,5,2,1,5
+Science,L.I.S,Mrs.Fatima Ibrahim,2001,Rain,3,1,3,2,5,4,2,1,5
+Science,Data Science,Dr.Aisha Mohammed,2002,Harmattan,2,3,4,3,2,3,5,3,2
+Science,cybersecurity,Mr. Obinna Eze,2004,Harmattan,4,4,4,5,1,2,4,2,4
+Science,L.I.S,Dr.Aisha Mohammed,2021,Harmattan,3,1,4,1,5,2,1,5,1
+Science,Data Science,Mrs.Fatima Ibrahim,2014,Rain,5,5,1,5,1,1,3,1,2
+Science,Computer science,Dr.Tunde.A.O,2005,Rain,4,5,2,3,3,2,1,4,2
+Science,cybersecurity,Dr.Tunde.A.O,2013,Harmattan,4,5,3,1,3,5,3,2,5
+Science,L.I.S,Mr. Obinna Eze,2020,Harmattan,2,3,2,5,5,4,3,1,1
+Science,L.I.S,Dr.Aisha Mohammed,2024,Rain,1,5,2,4,5,4,1,1,4
+Science,Computer science,Mrs.Fatima Ibrahim,2023,Harmattan,4,4,1,5,1,5,2,3,1
+Science,L.I.S,Dr.Chinwe Okonkwo,2023,Rain,3,4,4,5,5,3,1,4,1
+Science,Computer science,Dr.Aisha Mohammed,2018,Harmattan,2,4,2,2,5,1,3,1,3
+Science,cybersecurity,Mrs.Fatima Ibrahim,2010,Harmattan,3,2,5,4,5,4,2,2,4
+Science,Computer science,Dr.Tunde.A.O,2003,Rain,5,5,2,4,2,2,3,5,4
+Science,Computer science,Mrs.Fatima Ibrahim,2020,Rain,5,4,4,5,2,2,3,2,3
+Science,Data Science,Mrs.Fatima Ibrahim,2020,Rain,4,5,3,3,4,4,4,3,2
+Science,Computer science,Mrs.Fatima Ibrahim,2014,Harmattan,4,4,5,5,5,4,1,3,2
+Science,cybersecurity,Mrs.Fatima Ibrahim,2021,Harmattan,5,3,4,3,4,5,1,4,2
+Science,L.I.S,Mr. Obinna Eze,2003,Harmattan,3,2,5,3,5,4,5,5,3
+Science,L.I.S,Dr.Aisha Mohammed,2006,Rain,4,1,5,2,5,2,3,2,1
+Science,Data Science,Dr.Tunde.A.O,2023,Rain,1,4,4,4,3,3,4,3,2
+Science,L.I.S,Prof.Emeka Nwosu,2001,Rain,5,4,1,1,4,3,4,3,1
+Science,Data Science,Prof.Emeka Nwosu,2002,Rain,2,1,1,5,3,5,5,4,2
