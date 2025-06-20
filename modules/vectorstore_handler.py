@@ -3,10 +3,11 @@
 import os
 from dotenv import load_dotenv
 from langchain_community.vectorstores import FAISS
-from langchain_cohere import CohereEmbeddings
+from langchain_openai import OpenAIEmbeddings 
+
 load_dotenv()
 
-embedding_api_key = os.getenv("EMBEDDING_API_KEY")
+embedding_api_key = os.getenv("EMBEDDING_API_KEY")  
 
 VECTORSTORE_DIR = "vectorstore"
 FAISS_INDEX = os.path.join(VECTORSTORE_DIR, "index.faiss")
@@ -26,14 +27,10 @@ def load_vectorstore():
     """Load existing vectorstore from local directory."""
     try:
         if not embedding_api_key:
-            raise ValueError("Cohere embedding API key not found in environment variables.")
+            raise ValueError("OpenAI embedding API key not found in environment variables.")
 
         if os.path.exists(FAISS_INDEX) and os.path.exists(METADATA_FILE):
-            embeddings = CohereEmbeddings(
-                model="embed-v4.0",
-                cohere_api_key=embedding_api_key,
-                user_agent="langchain"
-            )
+            embeddings = OpenAIEmbeddings(openai_api_key=embedding_api_key)  # ✅
             return FAISS.load_local(
                 VECTORSTORE_DIR,
                 embeddings,
@@ -49,18 +46,15 @@ def create_vectorstore(documents):
     """Create new vectorstore from documents."""
     try:
         if not embedding_api_key:
-            raise ValueError("Cohere embedding API key not found in environment variables.")
+            raise ValueError("OpenAI embedding API key not found in environment variables.")
 
-        embeddings = CohereEmbeddings(
-            model="embed-v4.0",
-            cohere_api_key=embedding_api_key,
-            user_agent="langchain"
-        )
+        embeddings = OpenAIEmbeddings(openai_api_key=embedding_api_key)  # ✅
         vs = FAISS.from_documents(documents, embeddings)
         save_vectorstore(vs)
         return vs
     except Exception as e:
         raise RuntimeError(f"❌ Error creating vectorstore: {str(e)}")
+
 
 
 
