@@ -24,7 +24,7 @@ def create_qa_chain(vectorstore):
         )
 
         # Load language model
-        llm = ChatGroq(model="gemma2-9b-it", temperature=0)
+        llm = ChatGroq(model="llama-3.1-8b-instant", temperature=0)
 
         # System prompt for the LLM
         system_prompt = (
