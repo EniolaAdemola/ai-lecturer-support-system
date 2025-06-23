@@ -12,20 +12,41 @@ from modules.rag_chain import create_qa_chain
 load_dotenv()
 
 
-full_hide = """
+import streamlit as st
+
+hide_everything = """
     <style>
+        /* Hide Streamlit system UI */
         #MainMenu {visibility: hidden;}
         footer {visibility: hidden;}
         header {visibility: hidden;}
+
+        /* Hide Streamlit Share profile section */
         a[href*="https://share.streamlit.io/user/"] {
             display: none !important;
         }
         div[class^="_profileContainer"] {
             display: none !important;
         }
+
+        /* Hide the profile image by its src */
+        img[src*="default_github_user_logo.png"] {
+            display: none !important;
+        }
+
+        /* Or hide by test ID */
+        img[data-testid="appCreatorAvatar"] {
+            display: none !important;
+        }
+
+        /* Hide all profile-like image containers */
+        div[class^="_profilePreview"] {
+            display: none !important;
+        }
     </style>
 """
-st.markdown(full_hide, unsafe_allow_html=True)
+st.markdown(hide_everything, unsafe_allow_html=True)
+
 
 
 
