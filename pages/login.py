@@ -5,20 +5,20 @@ from dotenv import load_dotenv
 load_dotenv()
 
 
-full_hide = """
-    <style>
-        #MainMenu {visibility: hidden;}
-        footer {visibility: hidden;}
-        header {visibility: hidden;}
-        a[href*="https://share.streamlit.io/user/"] {
-            display: none !important;
-        }
-        div[class^="_profileContainer"] {
-            display: none !important;
-        }
-    </style>
-"""
-st.markdown(full_hide, unsafe_allow_html=True)
+# full_hide = """
+#     <style>
+#         #MainMenu {visibility: hidden;}
+#         footer {visibility: hidden;}
+#         header {visibility: hidden;}
+#         a[href*="https://share.streamlit.io/user/"] {
+#             display: none !important;
+#         }
+#         div[class^="_profileContainer"] {
+#             display: none !important;
+#         }
+#     </style>
+# """
+# st.markdown(full_hide, unsafe_allow_html=True)
 
 
 # Set page config

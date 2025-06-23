@@ -14,42 +14,14 @@ load_dotenv()
 
 st.html("""
 <style>
-/* Hide Streamlit header */
-header[data-testid="stHeader"] {
+/* Remove all Streamlit branding and UI elements */
+header, footer, #MainMenu, .stToolbar, .stDecoration, .stStatusWidget {
     display: none !important;
 }
 
-/* Hide Streamlit footer */
-footer[data-testid="stFooter"] {
-    display: none !important;
-}
-
-/* Hide the main menu (hamburger menu) */
-#MainMenu {
-    display: none !important;
-}
-
-/* Hide toolbar */
-div[data-testid="stToolbar"] {
-    display: none !important;
-}
-
-/* Hide decoration elements */
-div[data-testid="stDecoration"] {
-    display: none !important;
-}
-
-/* Remove padding from main container after hiding header */
-.stApp > div:first-child {
+/* Remove padding that remains after hiding header */
+.stApp {
     padding-top: 0px !important;
-}
-
-/* Alternative selectors for different Streamlit versions */
-.stApp > header,
-.stApp > footer,
-header.stHeader,
-footer.stFooter {
-    display: none !important;
 }
 </style>
 """)
