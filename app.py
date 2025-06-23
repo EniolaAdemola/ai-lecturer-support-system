@@ -12,51 +12,33 @@ from modules.rag_chain import create_qa_chain
 load_dotenv()
 
 
-st.html("""
+st.markdown("""
 <style>
-/* Nuclear option - hide everything that's not main content */
-header, footer, #MainMenu, .stToolbar, .stDecoration, .stStatusWidget {
-    display: none !important;
-    visibility: hidden !important;
-    height: 0px !important;
+header[data-testid="stHeader"] {
+    display: none;
 }
 
-/* Hide all data-testid elements that are UI-related */
-[data-testid="stHeader"],
-[data-testid="stFooter"],
-[data-testid="stToolbar"],
-[data-testid="stDecoration"],
-[data-testid="stStatusWidget"],
-[data-testid="stSidebarUserContent"] {
-    display: none !important;
-    visibility: hidden !important;
+.stApp > footer {
+    display: none;
 }
 
-/* Remove all hover effects */
-* { 
-    transition: none !important; 
-    pointer-events: auto !important;
+#MainMenu {
+    visibility: hidden;
 }
 
-*:hover {
-    transform: none !important;
-    box-shadow: none !important;
-    scale: 1 !important;
+div[data-testid="stToolbar"] {
+    display: none;
 }
 
-/* Hide profile/user elements with more specific selectors */
-button[data-testid*="user"],
-button[data-testid*="profile"],
-div[class*="user"],
-div[class*="profile"] {
-    display: none !important;
+div[data-testid="stStatusWidget"] {
+    display: none;
 }
 
 .stApp {
-    padding-top: 0px !important;
+    padding-top: 0rem;
 }
 </style>
-""")
+""", unsafe_allow_html=True)
 
 
 
