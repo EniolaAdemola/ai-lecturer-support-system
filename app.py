@@ -14,38 +14,38 @@ load_dotenv()
 
 import streamlit as st
 
-hide_everything = """
-    <style>
-        /* Hide Streamlit system UI */
-        #MainMenu {visibility: hidden;}
-        footer {visibility: hidden;}
-        header {visibility: hidden;}
+# hide_everything = """
+#     <style>
+#         /* Hide Streamlit system UI */
+#         #MainMenu {visibility: hidden;}
+#         footer {visibility: hidden;}
+#         header {visibility: hidden;}
 
-        /* Hide Streamlit Share profile section */
-        a[href*="https://share.streamlit.io/user/"] {
-            display: none !important;
-        }
-        div[class^="_profileContainer"] {
-            display: none !important;
-        }
+#         /* Hide Streamlit Share profile section */
+#         a[href*="https://share.streamlit.io/user/"] {
+#             display: none !important;
+#         }
+#         div[class^="_profileContainer"] {
+#             display: none !important;
+#         }
 
-        /* Hide the profile image by its src */
-        img[src*="default_github_user_logo.png"] {
-            display: none !important;
-        }
+#         /* Hide the profile image by its src */
+#         img[src*="default_github_user_logo.png"] {
+#             display: none !important;
+#         }
 
-        /* Or hide by test ID */
-        img[data-testid="appCreatorAvatar"] {
-            display: none !important;
-        }
+#         /* Or hide by test ID */
+#         img[data-testid="appCreatorAvatar"] {
+#             display: none !important;
+#         }
 
-        /* Hide all profile-like image containers */
-        div[class^="_profilePreview"] {
-            display: none !important;
-        }
-    </style>
-"""
-st.markdown(hide_everything, unsafe_allow_html=True)
+#         /* Hide all profile-like image containers */
+#         div[class^="_profilePreview"] {
+#             display: none !important;
+#         }
+#     </style>
+# """
+# st.markdown(hide_everything, unsafe_allow_html=True)
 
 
 
@@ -58,56 +58,47 @@ st.set_page_config(
 )
 
 
+import streamlit as st
+
+st.set_page_config(page_title="No Branding", layout="wide")
+
+# Inject CSS and JS to remove all Streamlit branding and profile box
+remove_streamlit_branding = """
+    <style>
+        #MainMenu, footer, header {
+            visibility: hidden;
+        }
+        a[href*="https://share.streamlit.io/user/"] {
+            display: none !important;
+        }
+        div[class^="_profileContainer"] {
+            display: none !important;
+        }
+        img[src*="default_github_user_logo.png"],
+        img[data-testid="appCreatorAvatar"] {
+            display: none !important;
+        }
+        div[class^="_profilePreview"] {
+            display: none !important;
+        }
+    </style>
+    <script>
+        const removeProfileInterval = setInterval(() => {
+            const avatar = document.querySelector('a[href*="https://share.streamlit.io/user/"]');
+            if (avatar) {
+                avatar.parentElement?.parentElement?.remove();
+                clearInterval(removeProfileInterval);
+            }
+        }, 100);
+    </script>
+"""
+
+st.markdown(remove_streamlit_branding, unsafe_allow_html=True)
 
 
 
 
-# hide_streamlit_style = """
-#     <style>
-#         #MainMenu {visibility: hidden;}         /* Top right hamburger */
-#         footer {visibility: hidden;}            /* Bottom footer */
-#         header {visibility: hidden;}            /* Top header */
-#         ._profileContainer_gzau3_53 {
-#             display: none !important;           /* Profile container */
-#         }
-#     </style>
-# """
-# st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
-
-
-# hide_streamlit_style = """
-#                 <style>
-#                 div[data-testid="stToolbar"] {
-#                 visibility: hidden;
-#                 height: 0%;
-#                 position: fixed;
-#                 }
-#                 div[data-testid="stDecoration"] {
-#                 visibility: hidden;
-#                 height: 0%;
-#                 position: fixed;
-#                 }
-#                 div[data-testid="stStatusWidget"] {
-#                 visibility: hidden;
-#                 height: 0%;
-#                 position: fixed;
-#                 }
-#                 #MainMenu {
-#                 visibility: hidden;
-#                 height: 0%;
-#                 }
-#                 header {
-#                 visibility: hidden;
-#                 height: 0%;
-#                 }
-#                 footer {
-#                 visibility: hidden;
-#                 height: 0%;
-#                 }
-#                 </style>
-#                 """
-# st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 
 
