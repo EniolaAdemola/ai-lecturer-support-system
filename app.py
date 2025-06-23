@@ -21,9 +21,12 @@ st.set_page_config(
 
 hide_streamlit_style = """
     <style>
-        #MainMenu {visibility: hidden;}  /* Top right hamburger */
-        footer {visibility: hidden;}     /* Bottom footer */
-        header {visibility: hidden;}     /* Top header */
+        #MainMenu {visibility: hidden;}         /* Top right hamburger */
+        footer {visibility: hidden;}            /* Bottom footer */
+        header {visibility: hidden;}            /* Top header */
+        ._profileContainer_gzau3_53 {
+            display: none !important;           /* Profile container */
+        }
     </style>
 """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
