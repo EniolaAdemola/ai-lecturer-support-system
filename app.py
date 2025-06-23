@@ -11,12 +11,34 @@ from modules.rag_chain import create_qa_chain
 
 load_dotenv()
 
+
+full_hide = """
+    <style>
+        #MainMenu {visibility: hidden;}
+        footer {visibility: hidden;}
+        header {visibility: hidden;}
+        a[href*="https://share.streamlit.io/user/"] {
+            display: none !important;
+        }
+        div[class^="_profileContainer"] {
+            display: none !important;
+        }
+    </style>
+"""
+st.markdown(full_hide, unsafe_allow_html=True)
+
+
+
 # Set page config
 st.set_page_config(
     page_title="AI LECTURER SUPPORT SYSTEM",
     layout="wide",
     initial_sidebar_state="expanded"
 )
+
+
+
+
 
 
 # hide_streamlit_style = """
@@ -33,38 +55,38 @@ st.set_page_config(
 
 
 
-hide_streamlit_style = """
-                <style>
-                div[data-testid="stToolbar"] {
-                visibility: hidden;
-                height: 0%;
-                position: fixed;
-                }
-                div[data-testid="stDecoration"] {
-                visibility: hidden;
-                height: 0%;
-                position: fixed;
-                }
-                div[data-testid="stStatusWidget"] {
-                visibility: hidden;
-                height: 0%;
-                position: fixed;
-                }
-                #MainMenu {
-                visibility: hidden;
-                height: 0%;
-                }
-                header {
-                visibility: hidden;
-                height: 0%;
-                }
-                footer {
-                visibility: hidden;
-                height: 0%;
-                }
-                </style>
-                """
-st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+# hide_streamlit_style = """
+#                 <style>
+#                 div[data-testid="stToolbar"] {
+#                 visibility: hidden;
+#                 height: 0%;
+#                 position: fixed;
+#                 }
+#                 div[data-testid="stDecoration"] {
+#                 visibility: hidden;
+#                 height: 0%;
+#                 position: fixed;
+#                 }
+#                 div[data-testid="stStatusWidget"] {
+#                 visibility: hidden;
+#                 height: 0%;
+#                 position: fixed;
+#                 }
+#                 #MainMenu {
+#                 visibility: hidden;
+#                 height: 0%;
+#                 }
+#                 header {
+#                 visibility: hidden;
+#                 height: 0%;
+#                 }
+#                 footer {
+#                 visibility: hidden;
+#                 height: 0%;
+#                 }
+#                 </style>
+#                 """
+# st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
 
 
