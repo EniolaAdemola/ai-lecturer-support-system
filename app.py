@@ -12,40 +12,47 @@ from modules.rag_chain import create_qa_chain
 load_dotenv()
 
 
-import streamlit as st
+st.html("""
+<style>
+/* Hide Streamlit header */
+header[data-testid="stHeader"] {
+    display: none !important;
+}
 
-# hide_everything = """
-#     <style>
-#         /* Hide Streamlit system UI */
-#         #MainMenu {visibility: hidden;}
-#         footer {visibility: hidden;}
-#         header {visibility: hidden;}
+/* Hide Streamlit footer */
+footer[data-testid="stFooter"] {
+    display: none !important;
+}
 
-#         /* Hide Streamlit Share profile section */
-#         a[href*="https://share.streamlit.io/user/"] {
-#             display: none !important;
-#         }
-#         div[class^="_profileContainer"] {
-#             display: none !important;
-#         }
+/* Hide the main menu (hamburger menu) */
+#MainMenu {
+    display: none !important;
+}
 
-#         /* Hide the profile image by its src */
-#         img[src*="default_github_user_logo.png"] {
-#             display: none !important;
-#         }
+/* Hide toolbar */
+div[data-testid="stToolbar"] {
+    display: none !important;
+}
 
-#         /* Or hide by test ID */
-#         img[data-testid="appCreatorAvatar"] {
-#             display: none !important;
-#         }
+/* Hide decoration elements */
+div[data-testid="stDecoration"] {
+    display: none !important;
+}
 
-#         /* Hide all profile-like image containers */
-#         div[class^="_profilePreview"] {
-#             display: none !important;
-#         }
-#     </style>
-# """
-# st.markdown(hide_everything, unsafe_allow_html=True)
+/* Remove padding from main container after hiding header */
+.stApp > div:first-child {
+    padding-top: 0px !important;
+}
+
+/* Alternative selectors for different Streamlit versions */
+.stApp > header,
+.stApp > footer,
+header.stHeader,
+footer.stFooter {
+    display: none !important;
+}
+</style>
+""")
 
 
 
@@ -57,43 +64,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-
-import streamlit as st
-
-st.set_page_config(page_title="No Branding", layout="wide")
-
-# Inject CSS and JS to remove all Streamlit branding and profile box
-remove_streamlit_branding = """
-    <style>
-        #MainMenu, footer, header {
-            visibility: hidden;
-        }
-        a[href*="https://share.streamlit.io/user/"] {
-            display: none !important;
-        }
-        div[class^="_profileContainer"] {
-            display: none !important;
-        }
-        img[src*="default_github_user_logo.png"],
-        img[data-testid="appCreatorAvatar"] {
-            display: none !important;
-        }
-        div[class^="_profilePreview"] {
-            display: none !important;
-        }
-    </style>
-    <script>
-        const removeProfileInterval = setInterval(() => {
-            const avatar = document.querySelector('a[href*="https://share.streamlit.io/user/"]');
-            if (avatar) {
-                avatar.parentElement?.parentElement?.remove();
-                clearInterval(removeProfileInterval);
-            }
-        }, 100);
-    </script>
-"""
-
-st.markdown(remove_streamlit_branding, unsafe_allow_html=True)
 
 
 
