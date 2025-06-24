@@ -52,7 +52,7 @@ def create_qa_chain(vectorstore):
             "2. Key Findings - Present 3-5 main insights with supporting data. "
             "3. Visualizations - Create relevant charts to illustrate findings. "
             "4. Recommendations - Provide actionable suggestions based on analysis. "
-            "5. Technical Details - Include statistical measures when requested. "
+            "5. Technical Details - Include statistical measures when relevant. "
             
             "INSTRUCTIONS: "
             "Use the provided data context to perform analysis. Create interactive visualizations when possible. "
