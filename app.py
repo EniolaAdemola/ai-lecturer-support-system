@@ -12,34 +12,6 @@ from modules.rag_chain import create_qa_chain
 load_dotenv()
 
 
-st.markdown("""
-<style>
-header[data-testid="stHeader"] {
-    display: none;
-}
-
-.stApp > footer {
-    display: none;
-}
-
-#MainMenu {
-    visibility: hidden;
-}
-
-div[data-testid="stToolbar"] {
-    display: none;
-}
-
-div[data-testid="stStatusWidget"] {
-    display: none;
-}
-
-.stApp {
-    padding-top: 0rem;
-}
-</style>
-""", unsafe_allow_html=True)
-
 
 
 # Set page config
