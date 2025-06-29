@@ -11,12 +11,23 @@ from modules.rag_chain import create_qa_chain
 
 load_dotenv()
 
+
+
+
 # Set page config
 st.set_page_config(
     page_title="AI LECTURER SUPPORT SYSTEM",
     layout="wide",
     initial_sidebar_state="expanded"
 )
+
+
+
+
+
+
+
+
 
 # Initialize session state
 def initialize_session_state():
